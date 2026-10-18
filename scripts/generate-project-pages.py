@@ -6,7 +6,7 @@ for p in data:
  slug=p['repo'].lower().replace('/','--');folder=root/'dist/projects'/slug;folder.mkdir(parents=True,exist_ok=True)
  blocks=[]
  for os,match in platforms.items():
-  assets=[a for a in p['assets'] if (p['repo']!='openai/codex' or __import__('re').match(r'^codex-(aarch64|x86_64|x64|arm64)[-.]',a['name']) and 'bazel' not in a['name']) and match(a['name'].lower()) and not any(s in a['name'].lower() for s in ['dsym','evidence','checksum'])]
+  assets=[a for a in p['assets'] if (p['repo']!='openai/codex' or __import__('re').match(r'^codex-(aarch64|x86_64|x64|arm64)[-.]',a['name']) and 'bazel' not in a['name']) and match(a['name'].lower()) and not any(s in a['name'].lower() for s in ['dsym','evidence','checksum','bwrap-','argument-comment-lint-'])]
   status='Official packages available' if assets else 'Native package not verified'
   links=''.join('<p><a class="button" href="'+e(a['url'])+'">Download ↓</a> <span class="asset-name">'+e(a['name'])+(' [DEBUG BUILD — not a production release]' if 'debug' in a['name'].lower() else '')+' · '+str(round(a['size']/1048576,1))+' MB</span>'+('<br><code style="font-size:10px;overflow-wrap:anywhere">'+e(a['digest'])+'</code>' if a.get('digest') else '')+'</p>' for a in assets)
   if not assets:links='<p>Check upstream setup. A native build or platform port may be required; no installer is supplied here.</p>'
