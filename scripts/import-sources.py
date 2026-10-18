@@ -13,8 +13,11 @@ results=[x for x in prior if x['status']=='extracted']
 def fetch(item):
  repo=item['repo'];dest=out/repo.replace('/','--');archive=out/(repo.replace('/','--')+'.tar.gz');started=time.monotonic()
  try:
-  result=subprocess.run(['git','ls-remote','https://github.com/'+repo+'.git','HEAD'],capture_output=True,text=True,timeout=40,check=True)
-  sha=result.stdout.split()[0];url='https://codeload.github.com/'+repo+'/tar.gz/'+sha
+  sha=item.get('commit')
+  if not sha:
+   result=subprocess.run(['git','ls-remote','https://github.com/'+repo+'.git','HEAD'],capture_output=True,text=True,timeout=40,check=True)
+   sha=result.stdout.split()[0]
+  url='https://codeload.github.com/'+repo+'/tar.gz/'+sha
   h=hashlib.sha256();total=0
   with urllib.request.urlopen(url,timeout=30) as source,archive.open('wb') as target:
    while chunk:=source.read(1024*256):

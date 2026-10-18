@@ -1,0 +1,1010 @@
+[
+  {
+    "repo": "sipeed/picoclaw",
+    "status": "extracted",
+    "commit": "bbf6893ca7afad27f1d00a0f5a45982a549c6ed6",
+    "archive_sha256": "917380aff0de7887729bead3c497385ec8eed97a94b95754616ea8a4e8a7d074",
+    "source_url": "https://codeload.github.com/sipeed/picoclaw/tar.gz/bbf6893ca7afad27f1d00a0f5a45982a549c6ed6",
+    "path": "imported-sources/sipeed--picoclaw"
+  },
+  {
+    "repo": "nullclaw/nullclaw",
+    "status": "extracted",
+    "commit": "5f1cade05c19b6ecdfb9565ae3305e892e484da9",
+    "archive_sha256": "a88f51710ebe66dd8e8460c6859f4b210a58cbbc6a798be91676e8ed48f1f39c",
+    "source_url": "https://codeload.github.com/nullclaw/nullclaw/tar.gz/5f1cade05c19b6ecdfb9565ae3305e892e484da9",
+    "path": "imported-sources/nullclaw--nullclaw"
+  },
+  {
+    "repo": "openagen/zeroclaw",
+    "status": "extracted",
+    "commit": "7170810e9890b82369aadb38dbf67f418d0a8874",
+    "archive_sha256": "bae774f741b787f324caa30c02effbc56b1315ca30c5492d4750f03aa31a1f81",
+    "source_url": "https://codeload.github.com/openagen/zeroclaw/tar.gz/7170810e9890b82369aadb38dbf67f418d0a8874",
+    "path": "imported-sources/openagen--zeroclaw"
+  },
+  {
+    "repo": "tnm/zclaw",
+    "status": "extracted",
+    "commit": "e3ad271244c1f2e01f4df6e81c2bab346e95d1b1",
+    "archive_sha256": "ae68dadb662a7f9a48a1d856e5e7be2bd185c49c21aed75a93038adb96bd222a",
+    "source_url": "https://codeload.github.com/tnm/zclaw/tar.gz/e3ad271244c1f2e01f4df6e81c2bab346e95d1b1",
+    "path": "imported-sources/tnm--zclaw"
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "status": "extracted",
+    "commit": "dcc1c8c7bcccfc60bc336c76666b67d4bdb50648",
+    "archive_sha256": "9c756b944ca1d25e48a67076dc26e6d7a5794876c00009688b1350b3c480d0fe",
+    "source_url": "https://codeload.github.com/memovai/mimiclaw/tar.gz/dcc1c8c7bcccfc60bc336c76666b67d4bdb50648",
+    "path": "imported-sources/memovai--mimiclaw"
+  },
+  {
+    "repo": "nearai/ironclaw",
+    "status": "extracted",
+    "commit": "b0b999d96781516ee05e6ba961d6f3ead900da96",
+    "archive_sha256": "7d5d1d89201c1a1e9a02d4313e29e5d4735a6dd2cd301c870d42ca5a43a5c4c2",
+    "source_url": "https://codeload.github.com/nearai/ironclaw/tar.gz/b0b999d96781516ee05e6ba961d6f3ead900da96",
+    "path": "imported-sources/nearai--ironclaw"
+  },
+  {
+    "repo": "nanocoai/nanoclaw",
+    "status": "extracted",
+    "commit": "7be8d7f6b9863e7c78c513717c21a6fcf04c3d28",
+    "archive_sha256": "0d10cb5594fe2fec2f28320f2dd3967f5a7ca0b34ec506899861b6e591b4706d",
+    "source_url": "https://codeload.github.com/nanocoai/nanoclaw/tar.gz/7be8d7f6b9863e7c78c513717c21a6fcf04c3d28",
+    "path": "imported-sources/nanocoai--nanoclaw"
+  },
+  {
+    "repo": "princezuda/safestclaw",
+    "status": "extracted",
+    "commit": "51619b86080e37cdd1556fc409cc618c752b21a1",
+    "archive_sha256": "282d33649e40205ffd9bc213f5b68739cf4a316cb1f68411861425494b5e8653",
+    "source_url": "https://codeload.github.com/princezuda/safestclaw/tar.gz/51619b86080e37cdd1556fc409cc618c752b21a1",
+    "path": "imported-sources/princezuda--safestclaw"
+  },
+  {
+    "repo": "qhkm/zeptoclaw",
+    "status": "extracted",
+    "commit": "8ff579b5f7c9c0c78b633382111e140b0efbe47f",
+    "archive_sha256": "ccfeadd8a3f7bd0beb5378923e7a8e1a2579e712d430a1246a82de73a893fdcc",
+    "source_url": "https://codeload.github.com/qhkm/zeptoclaw/tar.gz/8ff579b5f7c9c0c78b633382111e140b0efbe47f",
+    "path": "imported-sources/qhkm--zeptoclaw"
+  },
+  {
+    "repo": "HKUDS/nanobot",
+    "status": "extracted",
+    "commit": "b702ac633f149ada9ea123a8bfda5871d7ef6033",
+    "archive_sha256": "5e5fd21208693bf7858d83f234a6b6a88340143969159cbd82c743b47e3fc73f",
+    "source_url": "https://codeload.github.com/HKUDS/nanobot/tar.gz/b702ac633f149ada9ea123a8bfda5871d7ef6033",
+    "path": "imported-sources/HKUDS--nanobot"
+  },
+  {
+    "repo": "warengonzaga/tinyclaw",
+    "status": "extracted",
+    "commit": "5fc5f6715590e9c699bd74df53a31c70f88337bb",
+    "archive_sha256": "39e79f9cef77cfb297ff35f47884afeb973b686c5fe41d8b2bee7a673638102f",
+    "source_url": "https://codeload.github.com/warengonzaga/tinyclaw/tar.gz/5fc5f6715590e9c699bd74df53a31c70f88337bb",
+    "path": "imported-sources/warengonzaga--tinyclaw"
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "status": "extracted",
+    "commit": "2b69414969e66702f4aad50e0b09594cc26ccd11",
+    "archive_sha256": "9d19225b393d527d075361186da1970f51d34cd7666c99b8c418d75664b2440c",
+    "source_url": "https://codeload.github.com/brendanhogan/hermitclaw/tar.gz/2b69414969e66702f4aad50e0b09594cc26ccd11",
+    "path": "imported-sources/brendanhogan--hermitclaw"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "status": "extracted",
+    "commit": "802f2d8e75098ae0b45ad839ce98a31589ea8102",
+    "archive_sha256": "4eff8edcd78a146a43bdb37564cf6b5935b518bcf287a4d10a327755f2062ed1",
+    "source_url": "https://codeload.github.com/anomalyco/opencode/tar.gz/802f2d8e75098ae0b45ad839ce98a31589ea8102",
+    "path": "imported-sources/anomalyco--opencode"
+  },
+  {
+    "repo": "cline/cline",
+    "status": "extracted",
+    "commit": "a42df8c8d5fd9d9f9a9073589baffe32ea9bb2f0",
+    "archive_sha256": "4d0d0da212fba8dd0b5de722916038505587652a4d6c240385b47d0ae86b9caf",
+    "source_url": "https://codeload.github.com/cline/cline/tar.gz/a42df8c8d5fd9d9f9a9073589baffe32ea9bb2f0",
+    "path": "imported-sources/cline--cline"
+  },
+  {
+    "repo": "Aider-AI/aider",
+    "status": "extracted",
+    "commit": "5dc9490bb35f9729ef2c95d00a19ccd30c26339c",
+    "archive_sha256": "0c8d8d0de7ce2abc9d0893af0140e66257f734bec0f8747aa83af516f5b657ac",
+    "source_url": "https://codeload.github.com/Aider-AI/aider/tar.gz/5dc9490bb35f9729ef2c95d00a19ccd30c26339c",
+    "path": "imported-sources/Aider-AI--aider"
+  },
+  {
+    "repo": "OpenHands/OpenHands",
+    "status": "extracted",
+    "commit": "852132d38dbc15e03d6825bbacbeb971c72575be",
+    "archive_sha256": "a89e271b4d2ccd9556cec84d1a08da710d2e7ef30dfa33a41016133ce2173bd0",
+    "source_url": "https://codeload.github.com/OpenHands/OpenHands/tar.gz/852132d38dbc15e03d6825bbacbeb971c72575be",
+    "path": "imported-sources/OpenHands--OpenHands"
+  },
+  {
+    "repo": "SWE-agent/SWE-agent",
+    "status": "extracted",
+    "commit": "3ea751c087f32b16e039a2233dd6eefecef325d5",
+    "archive_sha256": "a02724577cde3c7033343efff74184ad33ca783b9f3b81bea90c13f4c47219a4",
+    "source_url": "https://codeload.github.com/SWE-agent/SWE-agent/tar.gz/3ea751c087f32b16e039a2233dd6eefecef325d5",
+    "path": "imported-sources/SWE-agent--SWE-agent"
+  },
+  {
+    "repo": "SWE-agent/mini-swe-agent",
+    "status": "extracted",
+    "commit": "04d809ceab9df28f9adaed044884180159172930",
+    "archive_sha256": "aa3db6c58b14c5331c4ded3d86435a209ae6a2c9a2ed8d0075db846b926fb6f1",
+    "source_url": "https://codeload.github.com/SWE-agent/mini-swe-agent/tar.gz/04d809ceab9df28f9adaed044884180159172930",
+    "path": "imported-sources/SWE-agent--mini-swe-agent"
+  },
+  {
+    "repo": "plandex-ai/plandex",
+    "status": "extracted",
+    "commit": "e2d772072efadbe41d2946d97d79be55532dbab5",
+    "archive_sha256": "a4619e13e126b6a304ebe7853f0177fb5d934ab523edff48ff564c809e88144a",
+    "source_url": "https://codeload.github.com/plandex-ai/plandex/tar.gz/e2d772072efadbe41d2946d97d79be55532dbab5",
+    "path": "imported-sources/plandex-ai--plandex"
+  },
+  {
+    "repo": "TabbyML/tabby",
+    "status": "extracted",
+    "commit": "21b29048d7bcf6b94f9f482f2d0fd05efadfd19f",
+    "archive_sha256": "506e2190d2acc74605bfd613b836372af8647d1a4ef1da6b1bc984ddf29ce9ce",
+    "source_url": "https://codeload.github.com/TabbyML/tabby/tar.gz/21b29048d7bcf6b94f9f482f2d0fd05efadfd19f",
+    "path": "imported-sources/TabbyML--tabby"
+  },
+  {
+    "repo": "QwenLM/qwen-code",
+    "status": "extracted",
+    "commit": "46bf492d05f4520bfd918c62e104d45f433da493",
+    "archive_sha256": "ca11384af0793fa4260f7a68668a725a13a4f9ee5b3fb80bf64f76680fb1836a",
+    "source_url": "https://codeload.github.com/QwenLM/qwen-code/tar.gz/46bf492d05f4520bfd918c62e104d45f433da493",
+    "path": "imported-sources/QwenLM--qwen-code"
+  },
+  {
+    "repo": "google-gemini/gemini-cli",
+    "status": "extracted",
+    "commit": "ed96faedfd5571f055c44f2c9509d62321d1138d",
+    "archive_sha256": "4cdbd5226e66a7b545496c3750ef54cf73bc0375e312686f9e99611af9bf01b5",
+    "source_url": "https://codeload.github.com/google-gemini/gemini-cli/tar.gz/ed96faedfd5571f055c44f2c9509d62321d1138d",
+    "path": "imported-sources/google-gemini--gemini-cli"
+  },
+  {
+    "repo": "openai/codex",
+    "status": "extracted",
+    "commit": "8c076942cb70fba8e5c4732c23f1faabc4aed484",
+    "archive_sha256": "b6aa520bfb2b08589679023a2594cf7758d3b916c56175c1d320d8aa077904d0",
+    "source_url": "https://codeload.github.com/openai/codex/tar.gz/8c076942cb70fba8e5c4732c23f1faabc4aed484",
+    "path": "imported-sources/openai--codex"
+  },
+  {
+    "repo": "ollama/ollama",
+    "status": "extracted",
+    "commit": "36a6e994d2f6c4ab94b3555185154d069e5dba87",
+    "archive_sha256": "815dffd2da6837fc932a55a5214e267ee8fe80d92422098e827db186a72ae980",
+    "source_url": "https://codeload.github.com/ollama/ollama/tar.gz/36a6e994d2f6c4ab94b3555185154d069e5dba87",
+    "path": "imported-sources/ollama--ollama"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "status": "extracted",
+    "commit": "5aeac37a35b44fde4bdffaec9159f2fcb253b622",
+    "archive_sha256": "8601c4eab1b4d81e5796b89ee28bd46b08654bde7fec354214b9a21a08b37c97",
+    "source_url": "https://codeload.github.com/ggml-org/llama.cpp/tar.gz/5aeac37a35b44fde4bdffaec9159f2fcb253b622",
+    "path": "imported-sources/ggml-org--llama.cpp"
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "status": "extracted",
+    "commit": "e80b6c642f21fd5b24439825592f5b9ced36add8",
+    "archive_sha256": "b4806971fe82c5ba2a3848ebd9b8040157fdae0516f76a9ecbd47ed6de8c7a26",
+    "source_url": "https://codeload.github.com/vllm-project/vllm/tar.gz/e80b6c642f21fd5b24439825592f5b9ced36add8",
+    "path": "imported-sources/vllm-project--vllm"
+  },
+  {
+    "repo": "sgl-project/sglang",
+    "status": "extracted",
+    "commit": "bb1d4cddd953597b4e27a8489367ddcbb99e3762",
+    "archive_sha256": "d5848c6d8123f97c9fd9150163a35a2a29e3477b3042fe7a316c1fc1c72d8d26",
+    "source_url": "https://codeload.github.com/sgl-project/sglang/tar.gz/bb1d4cddd953597b4e27a8489367ddcbb99e3762",
+    "path": "imported-sources/sgl-project--sglang"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "status": "extracted",
+    "commit": "0d6e57f9f5f2b666396a87d7062c80c9647ec483",
+    "archive_sha256": "8a5ee6242b4e048bf8aadd6aa6b3b96daa0b1eacec10744f29949bf94a035d35",
+    "source_url": "https://codeload.github.com/mudler/LocalAI/tar.gz/0d6e57f9f5f2b666396a87d7062c80c9647ec483",
+    "path": "imported-sources/mudler--LocalAI"
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "status": "extracted",
+    "commit": "b666d16db5aeab8b91aaf7963adcee9c643734d7",
+    "archive_sha256": "19ea4ef64204480a362144d036d554fc102870a613b3450c315e0a21b238cd7f",
+    "source_url": "https://codeload.github.com/nomic-ai/gpt4all/tar.gz/b666d16db5aeab8b91aaf7963adcee9c643734d7",
+    "path": "imported-sources/nomic-ai--gpt4all"
+  },
+  {
+    "repo": "janhq/cortex.cpp",
+    "status": "extracted",
+    "commit": "ee9e0ad5b55142959e6fd78ccbb273b993a2ade0",
+    "archive_sha256": "3701890720e9a841aa8f391d2226b1e0ea0b0ab649d4a1c25838098bd7bcc20c",
+    "source_url": "https://codeload.github.com/janhq/cortex.cpp/tar.gz/ee9e0ad5b55142959e6fd78ccbb273b993a2ade0",
+    "path": "imported-sources/janhq--cortex.cpp"
+  },
+  {
+    "repo": "mlc-ai/mlc-llm",
+    "status": "extracted",
+    "commit": "8978ea9aec626d64096aaa92fbc89bda2e3ea802",
+    "archive_sha256": "d8668846319948e38fa5ed50014f6d9cdbd4f3025bc8eccc885fd6db4bd7199e",
+    "source_url": "https://codeload.github.com/mlc-ai/mlc-llm/tar.gz/8978ea9aec626d64096aaa92fbc89bda2e3ea802",
+    "path": "imported-sources/mlc-ai--mlc-llm"
+  },
+  {
+    "repo": "ml-explore/mlx-lm",
+    "status": "extracted",
+    "commit": "93e6d4a6447b3080861985947f0820e76fcb957d",
+    "archive_sha256": "8bf9e69c99cc4a0c5927f637b09d9538e0d6be867f52a4ce3c3fc756a3826743",
+    "source_url": "https://codeload.github.com/ml-explore/mlx-lm/tar.gz/93e6d4a6447b3080861985947f0820e76fcb957d",
+    "path": "imported-sources/ml-explore--mlx-lm"
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "status": "extracted",
+    "commit": "91ea4e3421d1d8069f13d4a463fcb5986d94ea60",
+    "archive_sha256": "80323c7eeb41f816b8dc8969f3ad830cb57d426bbcf842418f87ab6f027b1fd1",
+    "source_url": "https://codeload.github.com/open-webui/open-webui/tar.gz/91ea4e3421d1d8069f13d4a463fcb5986d94ea60",
+    "path": "imported-sources/open-webui--open-webui"
+  },
+  {
+    "repo": "Mintplex-Labs/anything-llm",
+    "status": "extracted",
+    "commit": "d7d68e75c422d10384b8aa30f72d6d032fcc555e",
+    "archive_sha256": "e753156c7f8bd18573375d08f1e767b783a38bd926bdb7587abab3b555964cc3",
+    "source_url": "https://codeload.github.com/Mintplex-Labs/anything-llm/tar.gz/d7d68e75c422d10384b8aa30f72d6d032fcc555e",
+    "path": "imported-sources/Mintplex-Labs--anything-llm"
+  },
+  {
+    "repo": "hiyouga/LlamaFactory",
+    "status": "extracted",
+    "commit": "1fded918ac4723ac9966363f51ed4500866c5d1d",
+    "archive_sha256": "61596b9640bcbd7cde9ba07115a21c2dd2408a4ba31aca6056b57a841993214d",
+    "source_url": "https://codeload.github.com/hiyouga/LlamaFactory/tar.gz/1fded918ac4723ac9966363f51ed4500866c5d1d",
+    "path": "imported-sources/hiyouga--LlamaFactory"
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "status": "extracted",
+    "commit": "ca3d1d0cef1c2d0a37bf5f904c604009a314c445",
+    "archive_sha256": "b7c6a4c809e4e43953f635e964323988064b95413f2ff8f212595f69f01bac2c",
+    "source_url": "https://codeload.github.com/unslothai/unsloth/tar.gz/ca3d1d0cef1c2d0a37bf5f904c604009a314c445",
+    "path": "imported-sources/unslothai--unsloth"
+  },
+  {
+    "repo": "huggingface/transformers",
+    "status": "extracted",
+    "commit": "d4804f9d76b8c071b993d813e9e87067b780cbee",
+    "archive_sha256": "cda8d7f241b710b357658f8daaa28fe673009863af791785402fdedc336a51bb",
+    "source_url": "https://codeload.github.com/huggingface/transformers/tar.gz/d4804f9d76b8c071b993d813e9e87067b780cbee",
+    "path": "imported-sources/huggingface--transformers"
+  },
+  {
+    "repo": "exo-explore/exo",
+    "status": "extracted",
+    "commit": "bc412e2230f395e652c23426a5eb88dfa515769b",
+    "archive_sha256": "21662278266a62eb893c8ce89b1e21adc9dc13f2960c3d998fe93ebd44f00389",
+    "source_url": "https://codeload.github.com/exo-explore/exo/tar.gz/bc412e2230f395e652c23426a5eb88dfa515769b",
+    "path": "imported-sources/exo-explore--exo"
+  },
+  {
+    "repo": "lemonade-sdk/lemonade",
+    "status": "extracted",
+    "commit": "333469dd036a457dbb3c24054c867cb0d617a9e0",
+    "archive_sha256": "7afa18db2b5b28acc01fab150ab19b1eee600609a64ae0a029d54d62f3e11dc2",
+    "source_url": "https://codeload.github.com/lemonade-sdk/lemonade/tar.gz/333469dd036a457dbb3c24054c867cb0d617a9e0",
+    "path": "imported-sources/lemonade-sdk--lemonade"
+  },
+  {
+    "repo": "Koboldcpp/Koboldcpp",
+    "status": "extracted",
+    "commit": "326365f45ddb80dc26ca679179c324a8ee0fda19",
+    "archive_sha256": "0fde9da3b241298f033c51852a5530fbc0e44afb93fee86ae1fe2c1ae889a9bd",
+    "source_url": "https://codeload.github.com/Koboldcpp/Koboldcpp/tar.gz/326365f45ddb80dc26ca679179c324a8ee0fda19",
+    "path": "imported-sources/Koboldcpp--Koboldcpp"
+  },
+  {
+    "repo": "LostRuins/koboldcpp",
+    "status": "extracted",
+    "commit": "76e77f34056c51c42435f03faaf9ea1258a7cd68",
+    "archive_sha256": "f3eb8230d5d3f0687b57556aab8cceec6e502eb505d826e9ca86f23eea28b3ba",
+    "source_url": "https://codeload.github.com/LostRuins/koboldcpp/tar.gz/76e77f34056c51c42435f03faaf9ea1258a7cd68",
+    "path": "imported-sources/LostRuins--koboldcpp"
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "status": "extracted",
+    "commit": "96f33faaf028479119ec8d34507b47694cf14e34",
+    "archive_sha256": "3c200289ee78a84a71c835d5d895042834aeee9280c34f8890295304f675e3b0",
+    "source_url": "https://codeload.github.com/huggingface/smolagents/tar.gz/96f33faaf028479119ec8d34507b47694cf14e34",
+    "path": "imported-sources/huggingface--smolagents"
+  },
+  {
+    "repo": "google/adk-python",
+    "status": "extracted",
+    "commit": "e2dbc0f55027372f3a701d41004ee006ee8f9f14",
+    "archive_sha256": "56174926bbc338456e0b62136d96a1444ea651a1e9be3b78fe1900b61fb546c5",
+    "source_url": "https://codeload.github.com/google/adk-python/tar.gz/e2dbc0f55027372f3a701d41004ee006ee8f9f14",
+    "path": "imported-sources/google--adk-python"
+  },
+  {
+    "repo": "CherryHQ/cherry-studio",
+    "status": "extracted",
+    "commit": "5abadcc4259bdaaac31810c6ec1cc599751f90d3",
+    "archive_sha256": "1ac31fca582d262d895e57e575e02e9ebe4bf414737f88b1341b13fd3e149621",
+    "source_url": "https://codeload.github.com/CherryHQ/cherry-studio/tar.gz/5abadcc4259bdaaac31810c6ec1cc599751f90d3",
+    "path": "imported-sources/CherryHQ--cherry-studio"
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "status": "extracted",
+    "commit": "d2dc2f9ce50294df5c08799af437c56e3e04ab13",
+    "archive_sha256": "4867ac085c9ea4d87ac5ca2c514b7d17096b57ce8a22ad2c4cce505d80e892f3",
+    "source_url": "https://codeload.github.com/n8n-io/n8n/tar.gz/d2dc2f9ce50294df5c08799af437c56e3e04ab13",
+    "path": "imported-sources/n8n-io--n8n"
+  },
+  {
+    "repo": "pydantic/pydantic-ai",
+    "status": "extracted",
+    "commit": "0be309f8a0d92f5868e1779c39f93f4e5f30f1ff",
+    "archive_sha256": "6276e94be69591266f785507ab44aa8987f5c025624cea345f5aabc1d4b3d255",
+    "source_url": "https://codeload.github.com/pydantic/pydantic-ai/tar.gz/0be309f8a0d92f5868e1779c39f93f4e5f30f1ff",
+    "path": "imported-sources/pydantic--pydantic-ai"
+  },
+  {
+    "repo": "continuedev/continue",
+    "status": "extracted",
+    "commit": "5522c6f44ca0ac3528b37244818fbfa39b5af470",
+    "archive_sha256": "dd90d8d23498b5dd7820fa3635165b32ceafe7b3ef8e14a8254ca6cfc9758db7",
+    "source_url": "https://codeload.github.com/continuedev/continue/tar.gz/5522c6f44ca0ac3528b37244818fbfa39b5af470",
+    "path": "imported-sources/continuedev--continue"
+  },
+  {
+    "repo": "janhq/jan",
+    "status": "extracted",
+    "commit": "a86d87ebcfb7eb542dbc548cd3a5936b4650c3c6",
+    "archive_sha256": "f9e88b2cc5de93229e50ea60ef16fd733a48934fb6665535922c3d1a92013a5d",
+    "source_url": "https://codeload.github.com/janhq/jan/tar.gz/a86d87ebcfb7eb542dbc548cd3a5936b4650c3c6",
+    "path": "imported-sources/janhq--jan"
+  },
+  {
+    "repo": "RooCodeInc/Roo-Code",
+    "status": "extracted",
+    "commit": "b867ec9145750d0ae1ff7f02d35406e9bf2a0b16",
+    "archive_sha256": "9ad5f8a0863a574790121290aa05c434fa7ef00eec7d9c2c232b02f0514eac7c",
+    "source_url": "https://codeload.github.com/RooCodeInc/Roo-Code/tar.gz/b867ec9145750d0ae1ff7f02d35406e9bf2a0b16",
+    "path": "imported-sources/RooCodeInc--Roo-Code"
+  },
+  {
+    "repo": "aaif-goose/goose",
+    "status": "extracted",
+    "commit": "34a222e3f2b95d8b4a43482b53c2cc957ecce26d",
+    "archive_sha256": "ffa4b6842d83bf5cceff754dcadf6ac4f1c31aa01963a8c0118c14992fafe33a",
+    "source_url": "https://codeload.github.com/aaif-goose/goose/tar.gz/34a222e3f2b95d8b4a43482b53c2cc957ecce26d",
+    "path": "imported-sources/aaif-goose--goose"
+  },
+  {
+    "repo": "iOfficeAI/AionUi",
+    "status": "extracted",
+    "commit": "c140550d04e44f3d6f8a9830b40ae56e4689a977",
+    "archive_sha256": "6e1af580ec7f37844f86de058082257258afd5af7982c9f3d6dc22d381d7d517",
+    "source_url": "https://codeload.github.com/iOfficeAI/AionUi/tar.gz/c140550d04e44f3d6f8a9830b40ae56e4689a977",
+    "path": "imported-sources/iOfficeAI--AionUi"
+  },
+  {
+    "repo": "langchain-ai/langgraph",
+    "status": "extracted",
+    "commit": "0870f5efcec9d486046ae8abce0735aa7d1f3b79",
+    "archive_sha256": "843f6d5cad1109c879b49d1adde458411eb044e63f963d2f199ac2c6064e3072",
+    "source_url": "https://codeload.github.com/langchain-ai/langgraph/tar.gz/0870f5efcec9d486046ae8abce0735aa7d1f3b79",
+    "path": "imported-sources/langchain-ai--langgraph"
+  },
+  {
+    "repo": "openai/openai-agents-python",
+    "status": "extracted",
+    "commit": "9abc9182d06dbd28330af888306031269d57a175",
+    "archive_sha256": "79ac7e871c3b7e798ebaed804a899c73bdd636b8aa066111fb682d2989f8da3f",
+    "source_url": "https://codeload.github.com/openai/openai-agents-python/tar.gz/9abc9182d06dbd28330af888306031269d57a175",
+    "path": "imported-sources/openai--openai-agents-python"
+  },
+  {
+    "repo": "microsoft/autogen",
+    "status": "extracted",
+    "commit": "004749e6b7102c8fd317b9b1499ce5807223c278",
+    "archive_sha256": "12db299a0600cf26fd390daf707333c169ff0266c55c61785b1a2b7dbd6f04a3",
+    "source_url": "https://codeload.github.com/microsoft/autogen/tar.gz/004749e6b7102c8fd317b9b1499ce5807223c278",
+    "path": "imported-sources/microsoft--autogen"
+  },
+  {
+    "repo": "microsoft/agent-framework",
+    "status": "extracted",
+    "commit": "ebcf4db7f9462ef6c377761e0b3159c4c5a73027",
+    "archive_sha256": "2e5e0952a09af254f7d21ccb277f0732e99b46e5525198aa3500cb7c8d62deff",
+    "source_url": "https://codeload.github.com/microsoft/agent-framework/tar.gz/ebcf4db7f9462ef6c377761e0b3159c4c5a73027",
+    "path": "imported-sources/microsoft--agent-framework"
+  },
+  {
+    "repo": "agno-agi/agno",
+    "status": "extracted",
+    "commit": "0aa592461b5272e6fec8c3eb1383e6b8e71ab9b6",
+    "archive_sha256": "c8fce5eeb69ea482fe1b72bb344e24f22d4b533007630f6de9023277bd9651d2",
+    "source_url": "https://codeload.github.com/agno-agi/agno/tar.gz/0aa592461b5272e6fec8c3eb1383e6b8e71ab9b6",
+    "path": "imported-sources/agno-agi--agno"
+  },
+  {
+    "repo": "crewAIInc/crewAI",
+    "status": "extracted",
+    "commit": "40bb2d3b586e8367d206090cc62df5242206008f",
+    "archive_sha256": "e2821ad37c40d96bea88960e2e014ef0435e5d526b447754642099f28c76e5c0",
+    "source_url": "https://codeload.github.com/crewAIInc/crewAI/tar.gz/40bb2d3b586e8367d206090cc62df5242206008f",
+    "path": "imported-sources/crewAIInc--crewAI"
+  },
+  {
+    "repo": "FlowiseAI/Flowise",
+    "status": "extracted",
+    "commit": "9291856d1ea4a4ceea9f8fef8ce14f4f6c81e8eb",
+    "archive_sha256": "e04d06cc302f1aec1c0fdfd118d1503672852c4870142751d1b6441e7e5d348e",
+    "source_url": "https://codeload.github.com/FlowiseAI/Flowise/tar.gz/9291856d1ea4a4ceea9f8fef8ce14f4f6c81e8eb",
+    "path": "imported-sources/FlowiseAI--Flowise"
+  },
+  {
+    "repo": "langflow-ai/langflow",
+    "status": "extracted",
+    "commit": "972d56c47d3830d17060ee85cfaad152df823041",
+    "archive_sha256": "3052edba7d4239c8b651990a8f4cd648831a93b39d7eda384e53b27abf267cb9",
+    "source_url": "https://codeload.github.com/langflow-ai/langflow/tar.gz/972d56c47d3830d17060ee85cfaad152df823041",
+    "path": "imported-sources/langflow-ai--langflow"
+  },
+  {
+    "repo": "LibreChat-AI/LibreChat",
+    "status": "extracted",
+    "commit": "e081b566a42d3a83b8102157bd7806cf4ff63b17",
+    "archive_sha256": "bc0e8655c3adeba86670dff9326c12489ab56ea7d787ff8325834a2c528a4046",
+    "source_url": "https://codeload.github.com/LibreChat-AI/LibreChat/tar.gz/e081b566a42d3a83b8102157bd7806cf4ff63b17",
+    "path": "imported-sources/LibreChat-AI--LibreChat"
+  },
+  {
+    "repo": "openclaw/openclaw",
+    "status": "extracted",
+    "commit": "e1e4a0dffa2bdb930f8fa2ea65e425ba0fd9c354",
+    "archive_sha256": "6b4ad23bbc8f6286f03a929baa352523e0c4a0590444f8d126e887ebe7853800",
+    "source_url": "https://codeload.github.com/openclaw/openclaw/tar.gz/e1e4a0dffa2bdb930f8fa2ea65e425ba0fd9c354",
+    "path": "imported-sources/openclaw--openclaw"
+  },
+  {
+    "repo": "langgenius/dify",
+    "status": "extracted",
+    "commit": "bbfac7a93b6dac11f55af8b590883940a3015c34",
+    "archive_sha256": "3a39fd572456c59ddc15924b7982f307dc419b1cac2119162c258ae328224fca",
+    "source_url": "https://codeload.github.com/langgenius/dify/tar.gz/bbfac7a93b6dac11f55af8b590883940a3015c34",
+    "path": "imported-sources/langgenius--dify"
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
+    "status": "extracted",
+    "commit": "7a92cd4e7c2712370b8d85b687a474b2e858cdcc",
+    "archive_sha256": "34bca9172bbffa48da9c1f1f8249205f9ee80650e03ef5c15a129df1535983e6",
+    "source_url": "https://codeload.github.com/microsoft/semantic-kernel/tar.gz/7a92cd4e7c2712370b8d85b687a474b2e858cdcc",
+    "path": "imported-sources/microsoft--semantic-kernel"
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "status": "extracted",
+    "commit": "543e16738b4883fcb7e70520e0b5849e7e18c9b7",
+    "archive_sha256": "69399a368b835c6e9224168e1e5651ae3e7e8955b7301d05962c04d4b61d34f0",
+    "source_url": "https://codeload.github.com/infiniflow/ragflow/tar.gz/543e16738b4883fcb7e70520e0b5849e7e18c9b7",
+    "path": "imported-sources/infiniflow--ragflow"
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "status": "extracted",
+    "commit": "aa093a843da5edbf323c0b4145c9b6a0db3ecde8",
+    "archive_sha256": "b4091d1784c1654da4701b58bbf6822fa7b1c96ecf77dd6708a6a076b045e5ba",
+    "source_url": "https://codeload.github.com/browser-use/browser-use/tar.gz/aa093a843da5edbf323c0b4145c9b6a0db3ecde8",
+    "path": "imported-sources/browser-use--browser-use"
+  },
+  {
+    "repo": "e2b-dev/E2B",
+    "status": "extracted",
+    "commit": "62a17dfc3f11439d1d06bfb9bb515eadc5adfcd3",
+    "archive_sha256": "754ed4a0e64fb891e64a0e9bf58a74e54b61811f96a113c6a878e10cdb45e781",
+    "source_url": "https://codeload.github.com/e2b-dev/E2B/tar.gz/62a17dfc3f11439d1d06bfb9bb515eadc5adfcd3",
+    "path": "imported-sources/e2b-dev--E2B"
+  },
+  {
+    "repo": "The-Vibe-Company/quivr",
+    "status": "extracted",
+    "commit": "1f72133e27e1cc0a7a05fb35a93df0f9e33136c4",
+    "archive_sha256": "5a4ad285acd9083f657815fdb0d9a74518ec3df3e3bbbec8f4cedffbce98e4d4",
+    "source_url": "https://codeload.github.com/The-Vibe-Company/quivr/tar.gz/1f72133e27e1cc0a7a05fb35a93df0f9e33136c4",
+    "path": "imported-sources/The-Vibe-Company--quivr"
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "status": "extracted",
+    "commit": "c6c46c67b7ab19d9aa08290c2524c07cb185d2f1",
+    "archive_sha256": "b9368bb41b53c7ae6a9a1c7b9d3c56990ac4ac7b77b1020eb985a6ac396068cf",
+    "source_url": "https://codeload.github.com/deepset-ai/haystack/tar.gz/c6c46c67b7ab19d9aa08290c2524c07cb185d2f1",
+    "path": "imported-sources/deepset-ai--haystack"
+  },
+  {
+    "repo": "mem0ai/mem0",
+    "status": "extracted",
+    "commit": "0724291bd864cf807e88ee8981c8226644e8fb42",
+    "archive_sha256": "772b71bb6c7dd3fb4e7d761fd03fe1ab6bf8f8c6aa5bad348c093bc9b8f6ee0a",
+    "source_url": "https://codeload.github.com/mem0ai/mem0/tar.gz/0724291bd864cf807e88ee8981c8226644e8fb42",
+    "path": "imported-sources/mem0ai--mem0"
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "status": "extracted",
+    "commit": "7e6fb09da3987c8b75062307695f9083da55feed",
+    "archive_sha256": "9f33957954bcc8e0feb2b297a9aa13eebc515a15be47c061b3f9f32f6387ce18",
+    "source_url": "https://codeload.github.com/BerriAI/litellm/tar.gz/7e6fb09da3987c8b75062307695f9083da55feed",
+    "path": "imported-sources/BerriAI--litellm"
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "status": "extracted",
+    "commit": "619d74664e8404612038bc15a1a40c686037277c",
+    "archive_sha256": "004f4ada0f5ef72f6cf5cc9ed044f8b3e5d0744ce6c5b39bf77c3efc6bcf782d",
+    "source_url": "https://codeload.github.com/run-llama/llama_index/tar.gz/619d74664e8404612038bc15a1a40c686037277c",
+    "path": "imported-sources/run-llama--llama_index"
+  },
+  {
+    "repo": "assafelovic/gpt-researcher",
+    "status": "extracted",
+    "commit": "3582a6841fe7dc801e2a34e34ee408641aea9bce",
+    "archive_sha256": "9a4a2aca4e0dd9d4d6df37afdc9d5a185bdceccba3a88d9866c5709eb63afdff",
+    "source_url": "https://codeload.github.com/assafelovic/gpt-researcher/tar.gz/3582a6841fe7dc801e2a34e34ee408641aea9bce",
+    "path": "imported-sources/assafelovic--gpt-researcher"
+  },
+  {
+    "repo": "browserbase/stagehand",
+    "status": "extracted",
+    "commit": "10418f98831285b3cddca5328c8013a94f22672a",
+    "archive_sha256": "651379b386e2023897fd2393d7a23f64d101209162a2b235b96fd135a157c423",
+    "source_url": "https://codeload.github.com/browserbase/stagehand/tar.gz/10418f98831285b3cddca5328c8013a94f22672a",
+    "path": "imported-sources/browserbase--stagehand"
+  },
+  {
+    "repo": "TransformerOptimus/SuperAGI",
+    "status": "extracted",
+    "commit": "c3c1982e7bd6a11cfed53c5a193ea502f924b1b6",
+    "archive_sha256": "de8f248695247a3cf9ebfbcf3b68a482ef34a6ac4ec52129bd05ec84feba9411",
+    "source_url": "https://codeload.github.com/TransformerOptimus/SuperAGI/tar.gz/c3c1982e7bd6a11cfed53c5a193ea502f924b1b6",
+    "path": "imported-sources/TransformerOptimus--SuperAGI"
+  },
+  {
+    "repo": "xlang-ai/OpenAgents",
+    "status": "extracted",
+    "commit": "ff2e46440699af1324eb25655b622c4a131265bb",
+    "archive_sha256": "3ba2780fd386a01d04a4b308b598271620377fd7788be80bea75f8f741520bde",
+    "source_url": "https://codeload.github.com/xlang-ai/OpenAgents/tar.gz/ff2e46440699af1324eb25655b622c4a131265bb",
+    "path": "imported-sources/xlang-ai--OpenAgents"
+  },
+  {
+    "repo": "Skyvern-AI/skyvern",
+    "status": "extracted",
+    "commit": "4e681d04291b21265a7b20c74dc758c42d0e5fb2",
+    "archive_sha256": "2f986c3987809ded2b24755ff29b162a99665d1c39447d0f5e552a09d91d8ef4",
+    "source_url": "https://codeload.github.com/Skyvern-AI/skyvern/tar.gz/4e681d04291b21265a7b20c74dc758c42d0e5fb2",
+    "path": "imported-sources/Skyvern-AI--skyvern"
+  },
+  {
+    "repo": "dottxt-ai/outlines",
+    "status": "extracted",
+    "commit": "c52af8472c6fe8a607a733ec11b709476af77a96",
+    "archive_sha256": "e0ce2d94077c0116d73faacd1b2bd7998746e2bdaf0e59e789aeea592d314375",
+    "source_url": "https://codeload.github.com/dottxt-ai/outlines/tar.gz/c52af8472c6fe8a607a733ec11b709476af77a96",
+    "path": "imported-sources/dottxt-ai--outlines"
+  },
+  {
+    "repo": "microsoft/TaskWeaver",
+    "status": "extracted",
+    "commit": "d44ddef23f90059fb17999d3095db4240e98f955",
+    "archive_sha256": "d239226d6056cc53ef3501b3b6d00d0bb20cd42f39e1843ef9fdac27ab4dfa22",
+    "source_url": "https://codeload.github.com/microsoft/TaskWeaver/tar.gz/d44ddef23f90059fb17999d3095db4240e98f955",
+    "path": "imported-sources/microsoft--TaskWeaver"
+  },
+  {
+    "repo": "guidance-ai/guidance",
+    "status": "extracted",
+    "commit": "21b1d90dfbebff4b141df70c714c8af15aa5f4af",
+    "archive_sha256": "88feb0a11d25f9b774d6c06a173aaa01433a616bf7f3555320dc3cbc4e623c09",
+    "source_url": "https://codeload.github.com/guidance-ai/guidance/tar.gz/21b1d90dfbebff4b141df70c714c8af15aa5f4af",
+    "path": "imported-sources/guidance-ai--guidance"
+  },
+  {
+    "repo": "FoundationAgents/MetaGPT",
+    "status": "extracted",
+    "commit": "11cdf466d042aece04fc6cfd13b28e1a70341b1f",
+    "archive_sha256": "b319603d0207205e623200e9923a2a34cc3ef75d95922b2ce6ff4afac7485f76",
+    "source_url": "https://codeload.github.com/FoundationAgents/MetaGPT/tar.gz/11cdf466d042aece04fc6cfd13b28e1a70341b1f",
+    "path": "imported-sources/FoundationAgents--MetaGPT"
+  },
+  {
+    "repo": "OpenBMB/ChatDev",
+    "status": "extracted",
+    "commit": "a2ea4a263cebe9a7abd01ee3b5b0bf95698ed328",
+    "archive_sha256": "a8fabf0138b5d0773883cefaa1e46f18d58161ca26f0c5e33f9bab6a481b777a",
+    "source_url": "https://codeload.github.com/OpenBMB/ChatDev/tar.gz/a2ea4a263cebe9a7abd01ee3b5b0bf95698ed328",
+    "path": "imported-sources/OpenBMB--ChatDev"
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "status": "extracted",
+    "commit": "06d623e5e04cc96621130bb4bd118465c9e635d8",
+    "archive_sha256": "c95de710e104a64014997301e3086352d0b20037dad97bc1f238b2f9feab2183",
+    "source_url": "https://codeload.github.com/Significant-Gravitas/AutoGPT/tar.gz/06d623e5e04cc96621130bb4bd118465c9e635d8",
+    "path": "imported-sources/Significant-Gravitas--AutoGPT"
+  },
+  {
+    "repo": "camel-ai/camel",
+    "status": "extracted",
+    "commit": "e5e55256e9446f744bf7309c478b084587dbf985",
+    "archive_sha256": "b78463b45465765639727382a1b7699a451f63e062f24fecb25034c7d62c5334",
+    "source_url": "https://codeload.github.com/camel-ai/camel/tar.gz/e5e55256e9446f744bf7309c478b084587dbf985",
+    "path": "imported-sources/camel-ai--camel"
+  },
+  {
+    "repo": "letta-ai/letta",
+    "status": "extracted",
+    "commit": "5bcdd177d70fa2b31a754cfcd801e77b2e1ab16a",
+    "archive_sha256": "f1706c4eba3de99f86183859e25279273f4bcec70072efcc3aa11696e6086820",
+    "source_url": "https://codeload.github.com/letta-ai/letta/tar.gz/5bcdd177d70fa2b31a754cfcd801e77b2e1ab16a",
+    "path": "imported-sources/letta-ai--letta"
+  },
+  {
+    "repo": "modelcontextprotocol/servers",
+    "status": "extracted",
+    "commit": "bbb701e7ac1e57f3edd1c2836b94c5457eaf7b9c",
+    "archive_sha256": "ef6d3330a3430f27abd31cca8e8b6e80fd01b0e73c92ef10167b3252f4cdc2fe",
+    "source_url": "https://codeload.github.com/modelcontextprotocol/servers/tar.gz/bbb701e7ac1e57f3edd1c2836b94c5457eaf7b9c",
+    "path": "imported-sources/modelcontextprotocol--servers"
+  },
+  {
+    "repo": "getzep/graphiti",
+    "status": "extracted",
+    "commit": "417c3a125ae3ac53c19b8e53fffaccf3e665a88e",
+    "archive_sha256": "32b348ac936971c8e20ad15988110da9587c6f876eee16b7e32fd7479934b0f7",
+    "source_url": "https://codeload.github.com/getzep/graphiti/tar.gz/417c3a125ae3ac53c19b8e53fffaccf3e665a88e",
+    "path": "imported-sources/getzep--graphiti"
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "status": "extracted",
+    "commit": "1a4f8372eb47e28d975cebf5d09ca6d7f863d32b",
+    "archive_sha256": "49ab25b7324e688ce3ddacee17ec724f12a81900880eabc0e1a39ad1100368cf",
+    "source_url": "https://codeload.github.com/stanfordnlp/dspy/tar.gz/1a4f8372eb47e28d975cebf5d09ca6d7f863d32b",
+    "path": "imported-sources/stanfordnlp--dspy"
+  },
+  {
+    "repo": "openinterpreter/openinterpreter",
+    "status": "extracted",
+    "commit": "ac1fcc8fe57aba51fcc3c79afd57a0883237fe87",
+    "archive_sha256": "086316587e3037ae0ea175d5bd5f7a63e7c346ecaf1f098de3b903a9fb2b8097",
+    "source_url": "https://codeload.github.com/openinterpreter/openinterpreter/tar.gz/ac1fcc8fe57aba51fcc3c79afd57a0883237fe87",
+    "path": "imported-sources/openinterpreter--openinterpreter"
+  },
+  {
+    "repo": "punkpeye/fastmcp",
+    "status": "extracted",
+    "commit": "aabcce65519c64836a4c3a66c7d4013bd7b880b2",
+    "archive_sha256": "098e9b2f8f1e2cd826e610220c295d534cae28943519a2f04d7048ae77d86973",
+    "source_url": "https://codeload.github.com/punkpeye/fastmcp/tar.gz/aabcce65519c64836a4c3a66c7d4013bd7b880b2",
+    "path": "imported-sources/punkpeye--fastmcp"
+  },
+  {
+    "repo": "google/langextract",
+    "status": "extracted",
+    "commit": "3a68580f0aede0e96a2e1e03daa2a5f4011e4fcd",
+    "archive_sha256": "e7007698624e38bd61d98dc147227f30f99da6078a54579aad493c5e1ba65f89",
+    "source_url": "https://codeload.github.com/google/langextract/tar.gz/3a68580f0aede0e96a2e1e03daa2a5f4011e4fcd",
+    "path": "imported-sources/google--langextract"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "status": "extracted",
+    "commit": "bd5b134d876ef47858beef27bd29c81eeda03293",
+    "archive_sha256": "c4eeb1ef7ffe92570cd26a9969152f3a2277440d0cebc6a232b524a2924efc74",
+    "source_url": "https://codeload.github.com/langchain-ai/langchain/tar.gz/bd5b134d876ef47858beef27bd29c81eeda03293",
+    "path": "imported-sources/langchain-ai--langchain"
+  },
+  {
+    "repo": "PrefectHQ/fastmcp",
+    "status": "extracted",
+    "commit": "7e107c9cfb7a3cf56d74fcfa936e59b4c3b7cf01",
+    "archive_sha256": "1cfb71c5a583034711069ee8ed315fbd14f0aa83e98947b41ea11f96979ef80e",
+    "source_url": "https://codeload.github.com/PrefectHQ/fastmcp/tar.gz/7e107c9cfb7a3cf56d74fcfa936e59b4c3b7cf01",
+    "path": "imported-sources/PrefectHQ--fastmcp"
+  },
+  {
+    "repo": "microsoft/promptflow",
+    "status": "extracted",
+    "commit": "3928a727b406e66d64ff42621534bb58e0ca18ce",
+    "archive_sha256": "8e87e575a8a2aa0f89a64a292a72cb8526de62d87f951d9605baef1444eaaaa7",
+    "source_url": "https://codeload.github.com/microsoft/promptflow/tar.gz/3928a727b406e66d64ff42621534bb58e0ca18ce",
+    "path": "imported-sources/microsoft--promptflow"
+  },
+  {
+    "repo": "VectifyAI/PageIndex",
+    "status": "extracted",
+    "commit": "e7d1cc67e4dd5bfe4cac63b161b313ef41328705",
+    "archive_sha256": "d9f992fe2b871d88183edbba9aa3643ec482f42df628e7d2994fea83922a01e9",
+    "source_url": "https://codeload.github.com/VectifyAI/PageIndex/tar.gz/e7d1cc67e4dd5bfe4cac63b161b313ef41328705",
+    "path": "imported-sources/VectifyAI--PageIndex"
+  },
+  {
+    "repo": "zeroclaw-labs/zeroclaw",
+    "status": "extracted",
+    "commit": "c473221313341a853e04122f93bb9bd26b5e6c47",
+    "archive_sha256": "aabfa2ae33a95504b8a523779355f4324eda01e0915fb3626174be166f54cd03",
+    "source_url": "https://codeload.github.com/zeroclaw-labs/zeroclaw/tar.gz/c473221313341a853e04122f93bb9bd26b5e6c47",
+    "path": "imported-sources/zeroclaw-labs--zeroclaw"
+  },
+  {
+    "repo": "yogesharc/babyclaw",
+    "status": "extracted",
+    "commit": "bcd2bd4866abc75df95570955a7e8517e56b13ab",
+    "archive_sha256": "d3558a5a2afa504da77e471e503a4b9084c6b6a677c66a45cb19078e1bde6881",
+    "source_url": "https://codeload.github.com/yogesharc/babyclaw/tar.gz/bcd2bd4866abc75df95570955a7e8517e56b13ab",
+    "path": "imported-sources/yogesharc--babyclaw"
+  },
+  {
+    "repo": "TrinityClaw/trinity-claw",
+    "status": "extracted",
+    "commit": "a736fdc603f602a2b316aa794c717ff5a6ee8e0a",
+    "archive_sha256": "6fcef6036ba115e62fc3cf4555d631109c063e00bf38cd84dd81abf98e661025",
+    "source_url": "https://codeload.github.com/TrinityClaw/trinity-claw/tar.gz/a736fdc603f602a2b316aa794c717ff5a6ee8e0a",
+    "path": "imported-sources/TrinityClaw--trinity-claw"
+  },
+  {
+    "repo": "AstrBotDevs/AstrBot",
+    "status": "extracted",
+    "commit": "e5e21b71aec5642f110eb115eb8e9a0d8028b7e5",
+    "archive_sha256": "6383cc3eb19910776dea4788ab01e8273adb050f14f271080d60ec35d3dd82e6",
+    "source_url": "https://codeload.github.com/AstrBotDevs/AstrBot/tar.gz/e5e21b71aec5642f110eb115eb8e9a0d8028b7e5",
+    "path": "imported-sources/AstrBotDevs--AstrBot"
+  },
+  {
+    "repo": "TinyAGI/tinyagi",
+    "status": "extracted",
+    "commit": "2db3a03a891b302c460f624d6c5a0523b8aa3528",
+    "archive_sha256": "e5bfc2298db973a9ba3697f3000d6a04c17cedcdb84f44734db97160eeed0178",
+    "source_url": "https://codeload.github.com/TinyAGI/tinyagi/tar.gz/2db3a03a891b302c460f624d6c5a0523b8aa3528",
+    "path": "imported-sources/TinyAGI--tinyagi"
+  },
+  {
+    "repo": "moltis-org/moltis",
+    "status": "extracted",
+    "commit": "d6f76f3181c41c0092a07c504190fcab65d4ca43",
+    "archive_sha256": "b3fd4b72422269584329c91668429cfb36958644be6f3882299b6edb0a5fca32",
+    "source_url": "https://codeload.github.com/moltis-org/moltis/tar.gz/d6f76f3181c41c0092a07c504190fcab65d4ca43",
+    "path": "imported-sources/moltis-org--moltis"
+  },
+  {
+    "repo": "simstudioai/sim",
+    "status": "extracted",
+    "commit": "c6cef5f87b6a1d1d01df89e7140bad9e9fd4c2e2",
+    "archive_sha256": "b3a0c745fc9c72a85ae5e91b01d5afddad981ba077874acf94de037ffa3c2a60",
+    "source_url": "https://codeload.github.com/simstudioai/sim/tar.gz/c6cef5f87b6a1d1d01df89e7140bad9e9fd4c2e2",
+    "path": "imported-sources/simstudioai--sim"
+  },
+  {
+    "repo": "genlayerlabs/subzeroclaw",
+    "status": "extracted",
+    "commit": "6b6b5adcb4662e0202838b5549d254feca1fc2a3",
+    "archive_sha256": "6656e60120ff7c82150d1be2e613ba0c846a22eee853fdd7aeed4709afcd1da5",
+    "source_url": "https://codeload.github.com/genlayerlabs/subzeroclaw/tar.gz/6b6b5adcb4662e0202838b5549d254feca1fc2a3",
+    "path": "imported-sources/genlayerlabs--subzeroclaw"
+  },
+  {
+    "repo": "Kxrbx/Clawlet",
+    "status": "extracted",
+    "commit": "09a4d93642c0f0bbc0f175a9ffc1425357135ceb",
+    "archive_sha256": "4272a56dc61fbc5674a8a284e1770a681161ec8a360b7e182cafd84fe79512f6",
+    "source_url": "https://codeload.github.com/Kxrbx/Clawlet/tar.gz/09a4d93642c0f0bbc0f175a9ffc1425357135ceb",
+    "path": "imported-sources/Kxrbx--Clawlet"
+  },
+  {
+    "repo": "Masmedeam/shrew",
+    "status": "extracted",
+    "commit": "dda94d4eaae9cd5ab7598bc8fd5c10278f230b65",
+    "archive_sha256": "1efc35a9c2b3236b136c83160def01e75b0930db5cf7c94931fecb97aba46e3f",
+    "source_url": "https://codeload.github.com/Masmedeam/shrew/tar.gz/dda94d4eaae9cd5ab7598bc8fd5c10278f230b65",
+    "path": "imported-sources/Masmedeam--shrew"
+  },
+  {
+    "repo": "unitedbyai/droidclaw",
+    "status": "extracted",
+    "commit": "c7c991933e4a0c03cec6044aa7fb9067d391f4d4",
+    "archive_sha256": "c4097e74513847bafe6bd0f544762da4b79927db636ac66c176bf67c416d7af3",
+    "source_url": "https://codeload.github.com/unitedbyai/droidclaw/tar.gz/c7c991933e4a0c03cec6044aa7fb9067d391f4d4",
+    "path": "imported-sources/unitedbyai--droidclaw"
+  },
+  {
+    "repo": "vincenzodomina/supaclaw",
+    "status": "extracted",
+    "commit": "db4abb083248a9265e58b29dbec4256cf0e3a074",
+    "archive_sha256": "098b9882ba78377b1bb098f918e4735a709cb7ba4a8d9520346962e3749d92f3",
+    "source_url": "https://codeload.github.com/vincenzodomina/supaclaw/tar.gz/db4abb083248a9265e58b29dbec4256cf0e3a074",
+    "path": "imported-sources/vincenzodomina--supaclaw"
+  },
+  {
+    "repo": "letta-ai/lettabot",
+    "status": "extracted",
+    "commit": "99c3b5dd73550fe0a4eac2ee31b1c3229ca9e550",
+    "archive_sha256": "2ea758e6ee061ab1cd1606e129a9bdd7ccacb2f40e3534b1c0585c71546a5c80",
+    "source_url": "https://codeload.github.com/letta-ai/lettabot/tar.gz/99c3b5dd73550fe0a4eac2ee31b1c3229ca9e550",
+    "path": "imported-sources/letta-ai--lettabot"
+  },
+  {
+    "repo": "louisho5/picobot",
+    "status": "extracted",
+    "commit": "fedd7f2e0c84ea9065a1126ba6f7ba9084584ee8",
+    "archive_sha256": "0fee247e8a6a629f67c2f6dd09155c49fcd16a0cfecc0924c8be7da15e403016",
+    "source_url": "https://codeload.github.com/louisho5/picobot/tar.gz/fedd7f2e0c84ea9065a1126ba6f7ba9084584ee8",
+    "path": "imported-sources/louisho5--picobot"
+  },
+  {
+    "repo": "tinyfatco/troublemaker",
+    "status": "extracted",
+    "commit": "e3ef9df8f7021e5f8c156609b51b2a9d30f5e674",
+    "archive_sha256": "4c6220e7e4e3fffb6d3c3756601368f0d811ee1478aa3b277d4498c387b51e17",
+    "source_url": "https://codeload.github.com/tinyfatco/troublemaker/tar.gz/e3ef9df8f7021e5f8c156609b51b2a9d30f5e674",
+    "path": "imported-sources/tinyfatco--troublemaker"
+  },
+  {
+    "repo": "Abdur-rahmaanJ/angel-claw",
+    "status": "extracted",
+    "commit": "ae2919d8c2b636aebb90f9bedcbb8c09e3c1fcb9",
+    "archive_sha256": "5b1793c670eb0fbdfcef5354e158c8cd7fa99b5b4108cb053a2907821cff95b5",
+    "source_url": "https://codeload.github.com/Abdur-rahmaanJ/angel-claw/tar.gz/ae2919d8c2b636aebb90f9bedcbb8c09e3c1fcb9",
+    "path": "imported-sources/Abdur-rahmaanJ--angel-claw"
+  },
+  {
+    "repo": "crystal-autobot/autobot",
+    "status": "extracted",
+    "commit": "1452982ffaf17f3c2cc4ccb4d105f53901a342a1",
+    "archive_sha256": "092e130e75d522efa08d3b8bbae92ce48c2c6c0f10b1d767a75da888f43ca700",
+    "source_url": "https://codeload.github.com/crystal-autobot/autobot/tar.gz/1452982ffaf17f3c2cc4ccb4d105f53901a342a1",
+    "path": "imported-sources/crystal-autobot--autobot"
+  },
+  {
+    "repo": "microclaw/microclaw",
+    "status": "extracted",
+    "commit": "3cdbe02c5285120e74874f866f04425d1d40117e",
+    "archive_sha256": "d6ef8a1daa98198703c563cfda70013e0111f55b2ad517c21e739302fc74b59b",
+    "source_url": "https://codeload.github.com/microclaw/microclaw/tar.gz/3cdbe02c5285120e74874f866f04425d1d40117e",
+    "path": "imported-sources/microclaw--microclaw"
+  },
+  {
+    "repo": "moxxy-ai/moxxy",
+    "status": "extracted",
+    "commit": "aab78d00320aedcdc4d28372e3543a535efabfb0",
+    "archive_sha256": "bf7627651be6b41031d218390c3396ae0e5c9a05786d1fd8192201e53b04b50c",
+    "source_url": "https://codeload.github.com/moxxy-ai/moxxy/tar.gz/aab78d00320aedcdc4d28372e3543a535efabfb0",
+    "path": "imported-sources/moxxy-ai--moxxy"
+  },
+  {
+    "repo": "czl9707/pickle-bot",
+    "status": "extracted",
+    "commit": "2a84eea4027243250eb7468fd538bef1a2414eeb",
+    "archive_sha256": "7536e40f753fb825fc5f1ba4e50253319f36f8f91eae385e5caebf84cc8e7ec0",
+    "source_url": "https://codeload.github.com/czl9707/pickle-bot/tar.gz/2a84eea4027243250eb7468fd538bef1a2414eeb",
+    "path": "imported-sources/czl9707--pickle-bot"
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-R1",
+    "status": "extracted",
+    "commit": "0cf78561f1d51c84a21b2190626b21116d5c68bb",
+    "archive_sha256": "c2188e620fb5130c50ccf72e294ccf06c120e5cabfd852c3fe64255bab5f7574",
+    "source_url": "https://codeload.github.com/deepseek-ai/DeepSeek-R1/tar.gz/0cf78561f1d51c84a21b2190626b21116d5c68bb",
+    "path": "imported-sources/deepseek-ai--DeepSeek-R1"
+  },
+  {
+    "repo": "daegwang/atombot",
+    "status": "extracted",
+    "commit": "9e30bb67c5abd7c6a3782a03dfec3fd0e1b4a4fe",
+    "archive_sha256": "ed66532d03bf243057943194e4292260c310d4c4a697c01a248662c73f27eec0",
+    "source_url": "https://codeload.github.com/daegwang/atombot/tar.gz/9e30bb67c5abd7c6a3782a03dfec3fd0e1b4a4fe",
+    "path": "imported-sources/daegwang--atombot"
+  },
+  {
+    "repo": "QwenLM/Qwen3",
+    "status": "extracted",
+    "commit": "7a2f61ffc7a20d47efcd2bf97f6f2bf52729042e",
+    "archive_sha256": "f01242098bb2d8bcd04d27c15786da31400c6caeed0f02b46786e71ea28d1a2c",
+    "source_url": "https://codeload.github.com/QwenLM/Qwen3/tar.gz/7a2f61ffc7a20d47efcd2bf97f6f2bf52729042e",
+    "path": "imported-sources/QwenLM--Qwen3"
+  },
+  {
+    "repo": "RightNow-AI/openfang",
+    "status": "extracted",
+    "commit": "acf2587e46be174c10200489c9a2d23a39a98aeb",
+    "archive_sha256": "d8c7a9182b7b0c67c7261d4be6af31edd9725999c3c2a52e184183140cc08bfd",
+    "source_url": "https://codeload.github.com/RightNow-AI/openfang/tar.gz/acf2587e46be174c10200489c9a2d23a39a98aeb",
+    "path": "imported-sources/RightNow-AI--openfang"
+  },
+  {
+    "repo": "opencrabs/opencrabs",
+    "status": "extracted",
+    "commit": "02bd841e0ed7506f176427eb31271d238f79278d",
+    "archive_sha256": "a58396e24ac71d248f1825ae13bdff2db6bd8d2549a19be55538fe80004232d6",
+    "source_url": "https://codeload.github.com/opencrabs/opencrabs/tar.gz/02bd841e0ed7506f176427eb31271d238f79278d",
+    "path": "imported-sources/opencrabs--opencrabs"
+  },
+  {
+    "repo": "KarakuriAgent/clawdroid",
+    "status": "extracted",
+    "commit": "ab6eceadf8bada54a5b3ebc2f78d07f6ffb7b580",
+    "archive_sha256": "f47a7f236cba32b8db0a117d4dd3d5e21a54be45504c5f3ef3d39ff390d37e17",
+    "source_url": "https://codeload.github.com/KarakuriAgent/clawdroid/tar.gz/ab6eceadf8bada54a5b3ebc2f78d07f6ffb7b580",
+    "path": "imported-sources/KarakuriAgent--clawdroid"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "status": "extracted",
+    "commit": "22063fc099ec9ad8357d7f8f6e6248a0400680d3",
+    "archive_sha256": "8b07be550ca79bfbd44e16ba3cd8bb3260d5773eeb9a466796e718ebeb05aa45",
+    "source_url": "https://codeload.github.com/NousResearch/hermes-agent/tar.gz/22063fc099ec9ad8357d7f8f6e6248a0400680d3",
+    "path": "imported-sources/NousResearch--hermes-agent"
+  },
+  {
+    "repo": "mistralai/mistral-inference",
+    "status": "extracted",
+    "commit": "9eaeb91c17450e09021b6065a1d5cc69876507c8",
+    "archive_sha256": "89710fd0be1d1100f98762b382fc05295429b09b914e016da3ca315ac9bb1426",
+    "source_url": "https://codeload.github.com/mistralai/mistral-inference/tar.gz/9eaeb91c17450e09021b6065a1d5cc69876507c8",
+    "path": "imported-sources/mistralai--mistral-inference"
+  },
+  {
+    "repo": "meta-llama/llama-models",
+    "status": "extracted",
+    "commit": "0e0b8c519242d5833d8c11bffc1232b77ad7f301",
+    "archive_sha256": "b7a99003d9202a4efdaa91baa63cb9f83f42855ef37e4994fbe201568d14eb6b",
+    "source_url": "https://codeload.github.com/meta-llama/llama-models/tar.gz/0e0b8c519242d5833d8c11bffc1232b77ad7f301",
+    "path": "imported-sources/meta-llama--llama-models"
+  },
+  {
+    "repo": "google/gemma_pytorch",
+    "status": "extracted",
+    "commit": "014acb7ac4563a5f77c76d7ff98f31b568c16508",
+    "archive_sha256": "551974218cbd7a2323109111c592c8faac4dcf07a2a1eaf47e5595744b0215b2",
+    "source_url": "https://codeload.github.com/google/gemma_pytorch/tar.gz/014acb7ac4563a5f77c76d7ff98f31b568c16508",
+    "path": "imported-sources/google--gemma_pytorch"
+  },
+  {
+    "repo": "zai-org/GLM-4",
+    "status": "extracted",
+    "commit": "024d8fd48e62cf53785b68d657f1e018f87b5674",
+    "archive_sha256": "46f73303ca2dd03f48cc91c1f6a745a8594d0655cf738c1742842ce67ac48614",
+    "source_url": "https://codeload.github.com/zai-org/GLM-4/tar.gz/024d8fd48e62cf53785b68d657f1e018f87b5674",
+    "path": "imported-sources/zai-org--GLM-4"
+  },
+  {
+    "repo": "openai/gpt-oss",
+    "status": "extracted",
+    "commit": "5681a6b6552635e7b29cde94a61ca6a7aee90ebd",
+    "archive_sha256": "d41446a2001f0c53fcf78d49e59372e40b1f6db8a859b546507c86ed829cfd6f",
+    "source_url": "https://codeload.github.com/openai/gpt-oss/tar.gz/5681a6b6552635e7b29cde94a61ca6a7aee90ebd",
+    "path": "imported-sources/openai--gpt-oss"
+  }
+]

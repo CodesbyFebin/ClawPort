@@ -204,9 +204,9 @@ iOfficeAI/AionUi,Windows,Native package not verified,0,False
 iOfficeAI/AionUi,macOS,Native package not verified,0,False
 iOfficeAI/AionUi,Linux,Native package not verified,0,False
 CherryHQ/cherry-studio,Android,Native package not verified,0,False
-CherryHQ/cherry-studio,Windows,Native package not verified,0,False
-CherryHQ/cherry-studio,macOS,Native package not verified,0,False
-CherryHQ/cherry-studio,Linux,Native package not verified,0,False
+CherryHQ/cherry-studio,Windows,Official packages available,4,False
+CherryHQ/cherry-studio,macOS,Official packages available,2,False
+CherryHQ/cherry-studio,Linux,Official packages available,6,False
 langflow-ai/langflow,Android,Native package not verified,0,False
 langflow-ai/langflow,Windows,Native package not verified,0,False
 langflow-ai/langflow,macOS,Native package not verified,0,False
@@ -240,7 +240,7 @@ LibreChat-AI/LibreChat,Windows,Native package not verified,0,False
 LibreChat-AI/LibreChat,macOS,Native package not verified,0,False
 LibreChat-AI/LibreChat,Linux,Native package not verified,0,False
 langgenius/dify,Android,Native package not verified,0,False
-langgenius/dify,Windows,Native package not verified,0,False
+langgenius/dify,Windows,Official packages available,1,False
 langgenius/dify,macOS,Native package not verified,0,False
 langgenius/dify,Linux,Native package not verified,0,False
 FlowiseAI/Flowise,Android,Native package not verified,0,False
@@ -264,9 +264,9 @@ BerriAI/litellm,Windows,Native package not verified,0,False
 BerriAI/litellm,macOS,Native package not verified,0,False
 BerriAI/litellm,Linux,Native package not verified,0,False
 infiniflow/ragflow,Android,Native package not verified,0,False
-infiniflow/ragflow,Windows,Native package not verified,0,False
+infiniflow/ragflow,Windows,Official packages available,2,False
 infiniflow/ragflow,macOS,Native package not verified,0,False
-infiniflow/ragflow,Linux,Native package not verified,0,False
+infiniflow/ragflow,Linux,Official packages available,1,False
 The-Vibe-Company/quivr,Android,Native package not verified,0,False
 The-Vibe-Company/quivr,Windows,Native package not verified,0,False
 The-Vibe-Company/quivr,macOS,Native package not verified,0,False
@@ -340,9 +340,9 @@ stanfordnlp/dspy,Windows,Native package not verified,0,False
 stanfordnlp/dspy,macOS,Native package not verified,0,False
 stanfordnlp/dspy,Linux,Native package not verified,0,False
 openinterpreter/openinterpreter,Android,Native package not verified,0,False
-openinterpreter/openinterpreter,Windows,Native package not verified,0,False
-openinterpreter/openinterpreter,macOS,Native package not verified,0,False
-openinterpreter/openinterpreter,Linux,Native package not verified,0,False
+openinterpreter/openinterpreter,Windows,Official packages available,14,False
+openinterpreter/openinterpreter,macOS,Official packages available,2,False
+openinterpreter/openinterpreter,Linux,Official packages available,21,False
 getzep/graphiti,Android,Native package not verified,0,False
 getzep/graphiti,Windows,Native package not verified,0,False
 getzep/graphiti,macOS,Native package not verified,0,False
@@ -373,24 +373,24 @@ google/langextract,macOS,Native package not verified,0,False
 google/langextract,Linux,Native package not verified,0,False
 simstudioai/sim,Android,Native package not verified,0,False
 simstudioai/sim,Windows,Native package not verified,0,False
-simstudioai/sim,macOS,Native package not verified,0,False
+simstudioai/sim,macOS,Official packages available,1,False
 simstudioai/sim,Linux,Native package not verified,0,False
 VectifyAI/PageIndex,Android,Native package not verified,0,False
 VectifyAI/PageIndex,Windows,Native package not verified,0,False
 VectifyAI/PageIndex,macOS,Native package not verified,0,False
 VectifyAI/PageIndex,Linux,Native package not verified,0,False
 zeroclaw-labs/zeroclaw,Android,Native package not verified,0,False
-zeroclaw-labs/zeroclaw,Windows,Native package not verified,0,False
-zeroclaw-labs/zeroclaw,macOS,Native package not verified,0,False
-zeroclaw-labs/zeroclaw,Linux,Native package not verified,0,False
+zeroclaw-labs/zeroclaw,Windows,Official packages available,2,False
+zeroclaw-labs/zeroclaw,macOS,Official packages available,1,False
+zeroclaw-labs/zeroclaw,Linux,Official packages available,10,False
 TinyAGI/tinyagi,Android,Native package not verified,0,False
 TinyAGI/tinyagi,Windows,Native package not verified,0,False
 TinyAGI/tinyagi,macOS,Native package not verified,0,False
 TinyAGI/tinyagi,Linux,Native package not verified,0,False
 moltis-org/moltis,Android,Native package not verified,0,False
-moltis-org/moltis,Windows,Native package not verified,0,False
+moltis-org/moltis,Windows,Official packages available,1,False
 moltis-org/moltis,macOS,Native package not verified,0,False
-moltis-org/moltis,Linux,Native package not verified,0,False
+moltis-org/moltis,Linux,Official packages available,8,False
 TrinityClaw/trinity-claw,Android,Native package not verified,0,False
 TrinityClaw/trinity-claw,Windows,Native package not verified,0,False
 TrinityClaw/trinity-claw,macOS,Native package not verified,0,False
@@ -403,7 +403,7 @@ yogesharc/babyclaw,Android,Native package not verified,0,False
 yogesharc/babyclaw,Windows,Native package not verified,0,False
 yogesharc/babyclaw,macOS,Native package not verified,0,False
 yogesharc/babyclaw,Linux,Native package not verified,0,False
-unitedbyai/droidclaw,Android,Native package not verified,0,False
+unitedbyai/droidclaw,Android,Official packages available,1,False
 unitedbyai/droidclaw,Windows,Native package not verified,0,False
 unitedbyai/droidclaw,macOS,Native package not verified,0,False
 unitedbyai/droidclaw,Linux,Native package not verified,0,False
@@ -422,15 +422,15 @@ genlayerlabs/subzeroclaw,Linux,Native package not verified,0,False
 crystal-autobot/autobot,Android,Native package not verified,0,False
 crystal-autobot/autobot,Windows,Native package not verified,0,False
 crystal-autobot/autobot,macOS,Native package not verified,0,False
-crystal-autobot/autobot,Linux,Native package not verified,0,False
+crystal-autobot/autobot,Linux,Official packages available,2,False
 moxxy-ai/moxxy,Android,Native package not verified,0,False
 moxxy-ai/moxxy,Windows,Native package not verified,0,False
 moxxy-ai/moxxy,macOS,Native package not verified,0,False
 moxxy-ai/moxxy,Linux,Native package not verified,0,False
 microclaw/microclaw,Android,Native package not verified,0,False
 microclaw/microclaw,Windows,Native package not verified,0,False
-microclaw/microclaw,macOS,Native package not verified,0,False
-microclaw/microclaw,Linux,Native package not verified,0,False
+microclaw/microclaw,macOS,Official packages available,1,False
+microclaw/microclaw,Linux,Official packages available,6,False
 tinyfatco/troublemaker,Android,Native package not verified,0,False
 tinyfatco/troublemaker,Windows,Native package not verified,0,False
 tinyfatco/troublemaker,macOS,Native package not verified,0,False
@@ -458,12 +458,12 @@ czl9707/pickle-bot,Linux,Native package not verified,0,False
 opencrabs/opencrabs,Android,Native package not verified,0,False
 opencrabs/opencrabs,Windows,Native package not verified,0,False
 opencrabs/opencrabs,macOS,Native package not verified,0,False
-opencrabs/opencrabs,Linux,Native package not verified,0,False
+opencrabs/opencrabs,Linux,Official packages available,2,False
 RightNow-AI/openfang,Android,Native package not verified,0,False
-RightNow-AI/openfang,Windows,Native package not verified,0,False
-RightNow-AI/openfang,macOS,Native package not verified,0,False
-RightNow-AI/openfang,Linux,Native package not verified,0,False
-KarakuriAgent/clawdroid,Android,Native package not verified,0,False
+RightNow-AI/openfang,Windows,Official packages available,4,False
+RightNow-AI/openfang,macOS,Official packages available,2,False
+RightNow-AI/openfang,Linux,Official packages available,6,False
+KarakuriAgent/clawdroid,Android,Official packages available,5,False
 KarakuriAgent/clawdroid,Windows,Native package not verified,0,False
 KarakuriAgent/clawdroid,macOS,Native package not verified,0,False
 KarakuriAgent/clawdroid,Linux,Native package not verified,0,False

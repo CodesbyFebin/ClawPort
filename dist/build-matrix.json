@@ -1437,22 +1437,22 @@
   {
     "repo": "CherryHQ/cherry-studio",
     "platform": "Windows",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 4,
     "built_by_clawport": false
   },
   {
     "repo": "CherryHQ/cherry-studio",
     "platform": "macOS",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 2,
     "built_by_clawport": false
   },
   {
     "repo": "CherryHQ/cherry-studio",
     "platform": "Linux",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 6,
     "built_by_clawport": false
   },
   {
@@ -1689,8 +1689,8 @@
   {
     "repo": "langgenius/dify",
     "platform": "Windows",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 1,
     "built_by_clawport": false
   },
   {
@@ -1857,8 +1857,8 @@
   {
     "repo": "infiniflow/ragflow",
     "platform": "Windows",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 2,
     "built_by_clawport": false
   },
   {
@@ -1871,8 +1871,8 @@
   {
     "repo": "infiniflow/ragflow",
     "platform": "Linux",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 1,
     "built_by_clawport": false
   },
   {
@@ -2389,22 +2389,22 @@
   {
     "repo": "openinterpreter/openinterpreter",
     "platform": "Windows",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 14,
     "built_by_clawport": false
   },
   {
     "repo": "openinterpreter/openinterpreter",
     "platform": "macOS",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 2,
     "built_by_clawport": false
   },
   {
     "repo": "openinterpreter/openinterpreter",
     "platform": "Linux",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 21,
     "built_by_clawport": false
   },
   {
@@ -2620,8 +2620,8 @@
   {
     "repo": "simstudioai/sim",
     "platform": "macOS",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 1,
     "built_by_clawport": false
   },
   {
@@ -2669,22 +2669,22 @@
   {
     "repo": "zeroclaw-labs/zeroclaw",
     "platform": "Windows",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 2,
     "built_by_clawport": false
   },
   {
     "repo": "zeroclaw-labs/zeroclaw",
     "platform": "macOS",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 1,
     "built_by_clawport": false
   },
   {
     "repo": "zeroclaw-labs/zeroclaw",
     "platform": "Linux",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 10,
     "built_by_clawport": false
   },
   {
@@ -2725,8 +2725,8 @@
   {
     "repo": "moltis-org/moltis",
     "platform": "Windows",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 1,
     "built_by_clawport": false
   },
   {
@@ -2739,8 +2739,8 @@
   {
     "repo": "moltis-org/moltis",
     "platform": "Linux",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 8,
     "built_by_clawport": false
   },
   {
@@ -2830,8 +2830,8 @@
   {
     "repo": "unitedbyai/droidclaw",
     "platform": "Android",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 1,
     "built_by_clawport": false
   },
   {
@@ -2963,8 +2963,8 @@
   {
     "repo": "crystal-autobot/autobot",
     "platform": "Linux",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 2,
     "built_by_clawport": false
   },
   {
@@ -3012,15 +3012,15 @@
   {
     "repo": "microclaw/microclaw",
     "platform": "macOS",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 1,
     "built_by_clawport": false
   },
   {
     "repo": "microclaw/microclaw",
     "platform": "Linux",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 6,
     "built_by_clawport": false
   },
   {
@@ -3215,8 +3215,8 @@
   {
     "repo": "opencrabs/opencrabs",
     "platform": "Linux",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 2,
     "built_by_clawport": false
   },
   {
@@ -3229,29 +3229,29 @@
   {
     "repo": "RightNow-AI/openfang",
     "platform": "Windows",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 4,
     "built_by_clawport": false
   },
   {
     "repo": "RightNow-AI/openfang",
     "platform": "macOS",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 2,
     "built_by_clawport": false
   },
   {
     "repo": "RightNow-AI/openfang",
     "platform": "Linux",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 6,
     "built_by_clawport": false
   },
   {
     "repo": "KarakuriAgent/clawdroid",
     "platform": "Android",
-    "status": "Native package not verified",
-    "packages": 0,
+    "status": "Official packages available",
+    "packages": 5,
     "built_by_clawport": false
   },
   {

@@ -422,7 +422,7 @@
   {
     "repo": "langgenius/dify",
     "branch": "main",
-    "commit": "b953e69a0eb397e625337812e0319ab770f18783",
+    "commit": "bbfac7a93b6dac11f55af8b590883940a3015c34",
     "category": "Agent frameworks",
     "license": "NOASSERTION"
   },

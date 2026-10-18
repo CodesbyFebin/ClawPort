@@ -46,7 +46,7 @@ python3 scripts/import-sources.py --limit 54 --jobs 8
 python3 scripts/import-sources.py --jobs 6
 ```
 
-The importer resolves the current Git HEAD (the checked-in manifest also records pinned research commits), downloads its commit archive, calculates SHA-256, extracts using Python's data filter, and records evidence in `sources/import-results.json`. It does not execute imported code. Sources are kept separately in ignored `imported-sources/`; their licenses, names and attribution remain intact. Per-repository download and extraction bounds report large repositories as blocked rather than filling the disk. Python 3.12+ and Git are required. No proprietary dependencies, credentials or model weights are bundled.
+The importer uses the checked-in pinned commit (or resolves Git HEAD for entries without a pin), downloads its commit archive, calculates SHA-256, extracts using Python's data filter, and records evidence in `sources/import-results.json`. It does not execute imported code. Sources are kept separately in ignored `imported-sources/`; their licenses, names and attribution remain intact. Per-repository download and extraction bounds report large repositories as blocked rather than filling the disk. Python 3.12+ and Git are required. No proprietary dependencies, credentials or model weights are bundled.
 
 ## Research and refresh
 
