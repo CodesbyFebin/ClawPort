@@ -104,9 +104,9 @@ google-gemini/gemini-cli,Windows,Native package not verified,0,False
 google-gemini/gemini-cli,macOS,Native package not verified,0,False
 google-gemini/gemini-cli,Linux,Native package not verified,0,False
 openai/codex,Android,Native package not verified,0,False
-openai/codex,Windows,Official packages available,28,False
-openai/codex,macOS,Official packages available,4,False
-openai/codex,Linux,Official packages available,41,False
+openai/codex,Windows,Official packages available,2,False
+openai/codex,macOS,Official packages available,2,False
+openai/codex,Linux,Official packages available,2,False
 ollama/ollama,Android,Native package not verified,0,False
 ollama/ollama,Windows,Official packages available,1,False
 ollama/ollama,macOS,Official packages available,1,False

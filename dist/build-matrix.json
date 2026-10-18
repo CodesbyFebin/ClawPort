@@ -738,21 +738,21 @@
     "repo": "openai/codex",
     "platform": "Windows",
     "status": "Official packages available",
-    "packages": 28,
+    "packages": 2,
     "built_by_clawport": false
   },
   {
     "repo": "openai/codex",
     "platform": "macOS",
     "status": "Official packages available",
-    "packages": 4,
+    "packages": 2,
     "built_by_clawport": false
   },
   {
     "repo": "openai/codex",
     "platform": "Linux",
     "status": "Official packages available",
-    "packages": 41,
+    "packages": 2,
     "built_by_clawport": false
   },
   {

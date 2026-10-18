@@ -31,19 +31,28 @@ No npm dependencies or build step are needed. GitHub Actions runs the tests and 
 
 ## Extract upstream sources
 
+All 126 upstream projects are pinned to exact commits and included as Git submodules. Clone every source tree with:
+
+```
+git clone --recurse-submodules https://github.com/CodesbyFebin/ClawPort.git
+```
+
+Upstream projects retain their names, licenses and copyright. Submodules keep their histories and source boundaries intact. Each installation page also links to its pinned source archive.
+
+
 ```
 python3 scripts/import-sources.py --limit 54 --jobs 8
 # All manifest entries:
 python3 scripts/import-sources.py --jobs 6
 ```
 
-The importer resolves the current Git HEAD, downloads its commit archive, calculates SHA-256, extracts using Python's data filter, and records evidence in `sources/import-results.json`. It does not execute imported code. Sources are kept separately in ignored `imported-sources/`; their licenses, names and attribution remain intact. Per-repository download and extraction bounds report large repositories as blocked rather than filling the disk. Python 3.12+ and Git are required. No proprietary dependencies, credentials or model weights are bundled.
+The importer resolves the current Git HEAD (the checked-in manifest also records pinned research commits), downloads its commit archive, calculates SHA-256, extracts using Python's data filter, and records evidence in `sources/import-results.json`. It does not execute imported code. Sources are kept separately in ignored `imported-sources/`; their licenses, names and attribution remain intact. Per-repository download and extraction bounds report large repositories as blocked rather than filling the disk. Python 3.12+ and Git are required. No proprietary dependencies, credentials or model weights are bundled.
 
 ## Research and refresh
 
 The source collection contains only 15 entries despite its introductory claim of 30+ alternatives. Its README and pinned commit are preserved in `vendor/awesome-openclaw-alternatives/`; no license file was present in that collection.
 
-Expanded discovery used https://github.com/machinae/awesome-claws and primary upstream GitHub repository metadata. Redirected repository names are canonicalized and deduplicated. Existing release metadata includes 656 assets; newly researched projects without checked release metadata link to upstream setup instead. The 126 repository links were verified; application functionality and hardware performance were not tested. Metadata is a dated snapshot, not a security or license audit.
+Expanded discovery used https://github.com/machinae/awesome-claws and primary upstream GitHub repository metadata. Redirected repository names are canonicalized and deduplicated. Existing release metadata includes 1,163 assets; projects without checked release metadata link to upstream setup instead. The 126 repository links were verified; application functionality and hardware performance were not tested. Metadata is a dated snapshot, not a security or license audit.
 
 ```
 python3 scripts/sync.py

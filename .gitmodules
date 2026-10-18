@@ -1,0 +1,504 @@
+[submodule "sources/repos/openclaw--openclaw"]
+	path = sources/repos/openclaw--openclaw
+	url = https://github.com/openclaw/openclaw.git
+
+[submodule "sources/repos/sipeed--picoclaw"]
+	path = sources/repos/sipeed--picoclaw
+	url = https://github.com/sipeed/picoclaw.git
+
+[submodule "sources/repos/nullclaw--nullclaw"]
+	path = sources/repos/nullclaw--nullclaw
+	url = https://github.com/nullclaw/nullclaw.git
+
+[submodule "sources/repos/openagen--zeroclaw"]
+	path = sources/repos/openagen--zeroclaw
+	url = https://github.com/openagen/zeroclaw.git
+
+[submodule "sources/repos/tnm--zclaw"]
+	path = sources/repos/tnm--zclaw
+	url = https://github.com/tnm/zclaw.git
+
+[submodule "sources/repos/memovai--mimiclaw"]
+	path = sources/repos/memovai--mimiclaw
+	url = https://github.com/memovai/mimiclaw.git
+
+[submodule "sources/repos/nearai--ironclaw"]
+	path = sources/repos/nearai--ironclaw
+	url = https://github.com/nearai/ironclaw.git
+
+[submodule "sources/repos/nanocoai--nanoclaw"]
+	path = sources/repos/nanocoai--nanoclaw
+	url = https://github.com/nanocoai/nanoclaw.git
+
+[submodule "sources/repos/princezuda--safestclaw"]
+	path = sources/repos/princezuda--safestclaw
+	url = https://github.com/princezuda/safestclaw.git
+
+[submodule "sources/repos/qhkm--zeptoclaw"]
+	path = sources/repos/qhkm--zeptoclaw
+	url = https://github.com/qhkm/zeptoclaw.git
+
+[submodule "sources/repos/hkuds--nanobot"]
+	path = sources/repos/hkuds--nanobot
+	url = https://github.com/HKUDS/nanobot.git
+
+[submodule "sources/repos/warengonzaga--tinyclaw"]
+	path = sources/repos/warengonzaga--tinyclaw
+	url = https://github.com/warengonzaga/tinyclaw.git
+
+[submodule "sources/repos/brendanhogan--hermitclaw"]
+	path = sources/repos/brendanhogan--hermitclaw
+	url = https://github.com/brendanhogan/hermitclaw.git
+
+[submodule "sources/repos/anomalyco--opencode"]
+	path = sources/repos/anomalyco--opencode
+	url = https://github.com/anomalyco/opencode.git
+
+[submodule "sources/repos/cline--cline"]
+	path = sources/repos/cline--cline
+	url = https://github.com/cline/cline.git
+
+[submodule "sources/repos/roocodeinc--roo-code"]
+	path = sources/repos/roocodeinc--roo-code
+	url = https://github.com/RooCodeInc/Roo-Code.git
+
+[submodule "sources/repos/aider-ai--aider"]
+	path = sources/repos/aider-ai--aider
+	url = https://github.com/Aider-AI/aider.git
+
+[submodule "sources/repos/continuedev--continue"]
+	path = sources/repos/continuedev--continue
+	url = https://github.com/continuedev/continue.git
+
+[submodule "sources/repos/openhands--openhands"]
+	path = sources/repos/openhands--openhands
+	url = https://github.com/OpenHands/OpenHands.git
+
+[submodule "sources/repos/swe-agent--swe-agent"]
+	path = sources/repos/swe-agent--swe-agent
+	url = https://github.com/SWE-agent/SWE-agent.git
+
+[submodule "sources/repos/swe-agent--mini-swe-agent"]
+	path = sources/repos/swe-agent--mini-swe-agent
+	url = https://github.com/SWE-agent/mini-swe-agent.git
+
+[submodule "sources/repos/aaif-goose--goose"]
+	path = sources/repos/aaif-goose--goose
+	url = https://github.com/aaif-goose/goose.git
+
+[submodule "sources/repos/plandex-ai--plandex"]
+	path = sources/repos/plandex-ai--plandex
+	url = https://github.com/plandex-ai/plandex.git
+
+[submodule "sources/repos/tabbyml--tabby"]
+	path = sources/repos/tabbyml--tabby
+	url = https://github.com/TabbyML/tabby.git
+
+[submodule "sources/repos/qwenlm--qwen-code"]
+	path = sources/repos/qwenlm--qwen-code
+	url = https://github.com/QwenLM/qwen-code.git
+
+[submodule "sources/repos/google-gemini--gemini-cli"]
+	path = sources/repos/google-gemini--gemini-cli
+	url = https://github.com/google-gemini/gemini-cli.git
+
+[submodule "sources/repos/openai--codex"]
+	path = sources/repos/openai--codex
+	url = https://github.com/openai/codex.git
+
+[submodule "sources/repos/ollama--ollama"]
+	path = sources/repos/ollama--ollama
+	url = https://github.com/ollama/ollama.git
+
+[submodule "sources/repos/ggml-org--llama.cpp"]
+	path = sources/repos/ggml-org--llama.cpp
+	url = https://github.com/ggml-org/llama.cpp.git
+
+[submodule "sources/repos/vllm-project--vllm"]
+	path = sources/repos/vllm-project--vllm
+	url = https://github.com/vllm-project/vllm.git
+
+[submodule "sources/repos/sgl-project--sglang"]
+	path = sources/repos/sgl-project--sglang
+	url = https://github.com/sgl-project/sglang.git
+
+[submodule "sources/repos/mudler--localai"]
+	path = sources/repos/mudler--localai
+	url = https://github.com/mudler/LocalAI.git
+
+[submodule "sources/repos/janhq--jan"]
+	path = sources/repos/janhq--jan
+	url = https://github.com/janhq/jan.git
+
+[submodule "sources/repos/nomic-ai--gpt4all"]
+	path = sources/repos/nomic-ai--gpt4all
+	url = https://github.com/nomic-ai/gpt4all.git
+
+[submodule "sources/repos/janhq--cortex.cpp"]
+	path = sources/repos/janhq--cortex.cpp
+	url = https://github.com/janhq/cortex.cpp.git
+
+[submodule "sources/repos/mlc-ai--mlc-llm"]
+	path = sources/repos/mlc-ai--mlc-llm
+	url = https://github.com/mlc-ai/mlc-llm.git
+
+[submodule "sources/repos/ml-explore--mlx-lm"]
+	path = sources/repos/ml-explore--mlx-lm
+	url = https://github.com/ml-explore/mlx-lm.git
+
+[submodule "sources/repos/open-webui--open-webui"]
+	path = sources/repos/open-webui--open-webui
+	url = https://github.com/open-webui/open-webui.git
+
+[submodule "sources/repos/mintplex-labs--anything-llm"]
+	path = sources/repos/mintplex-labs--anything-llm
+	url = https://github.com/Mintplex-Labs/anything-llm.git
+
+[submodule "sources/repos/hiyouga--llamafactory"]
+	path = sources/repos/hiyouga--llamafactory
+	url = https://github.com/hiyouga/LlamaFactory.git
+
+[submodule "sources/repos/unslothai--unsloth"]
+	path = sources/repos/unslothai--unsloth
+	url = https://github.com/unslothai/unsloth.git
+
+[submodule "sources/repos/huggingface--transformers"]
+	path = sources/repos/huggingface--transformers
+	url = https://github.com/huggingface/transformers.git
+
+[submodule "sources/repos/exo-explore--exo"]
+	path = sources/repos/exo-explore--exo
+	url = https://github.com/exo-explore/exo.git
+
+[submodule "sources/repos/lemonade-sdk--lemonade"]
+	path = sources/repos/lemonade-sdk--lemonade
+	url = https://github.com/lemonade-sdk/lemonade.git
+
+[submodule "sources/repos/koboldcpp--koboldcpp"]
+	path = sources/repos/koboldcpp--koboldcpp
+	url = https://github.com/Koboldcpp/Koboldcpp.git
+
+[submodule "sources/repos/lostruins--koboldcpp"]
+	path = sources/repos/lostruins--koboldcpp
+	url = https://github.com/LostRuins/koboldcpp.git
+
+[submodule "sources/repos/crewaiinc--crewai"]
+	path = sources/repos/crewaiinc--crewai
+	url = https://github.com/crewAIInc/crewAI.git
+
+[submodule "sources/repos/huggingface--smolagents"]
+	path = sources/repos/huggingface--smolagents
+	url = https://github.com/huggingface/smolagents.git
+
+[submodule "sources/repos/pydantic--pydantic-ai"]
+	path = sources/repos/pydantic--pydantic-ai
+	url = https://github.com/pydantic/pydantic-ai.git
+
+[submodule "sources/repos/google--adk-python"]
+	path = sources/repos/google--adk-python
+	url = https://github.com/google/adk-python.git
+
+[submodule "sources/repos/iofficeai--aionui"]
+	path = sources/repos/iofficeai--aionui
+	url = https://github.com/iOfficeAI/AionUi.git
+
+[submodule "sources/repos/cherryhq--cherry-studio"]
+	path = sources/repos/cherryhq--cherry-studio
+	url = https://github.com/CherryHQ/cherry-studio.git
+
+[submodule "sources/repos/langflow-ai--langflow"]
+	path = sources/repos/langflow-ai--langflow
+	url = https://github.com/langflow-ai/langflow.git
+
+[submodule "sources/repos/n8n-io--n8n"]
+	path = sources/repos/n8n-io--n8n
+	url = https://github.com/n8n-io/n8n.git
+
+[submodule "sources/repos/microsoft--autogen"]
+	path = sources/repos/microsoft--autogen
+	url = https://github.com/microsoft/autogen.git
+
+[submodule "sources/repos/microsoft--agent-framework"]
+	path = sources/repos/microsoft--agent-framework
+	url = https://github.com/microsoft/agent-framework.git
+
+[submodule "sources/repos/langchain-ai--langgraph"]
+	path = sources/repos/langchain-ai--langgraph
+	url = https://github.com/langchain-ai/langgraph.git
+
+[submodule "sources/repos/agno-agi--agno"]
+	path = sources/repos/agno-agi--agno
+	url = https://github.com/agno-agi/agno.git
+
+[submodule "sources/repos/openai--openai-agents-python"]
+	path = sources/repos/openai--openai-agents-python
+	url = https://github.com/openai/openai-agents-python.git
+
+[submodule "sources/repos/librechat-ai--librechat"]
+	path = sources/repos/librechat-ai--librechat
+	url = https://github.com/LibreChat-AI/LibreChat.git
+
+[submodule "sources/repos/langgenius--dify"]
+	path = sources/repos/langgenius--dify
+	url = https://github.com/langgenius/dify.git
+
+[submodule "sources/repos/flowiseai--flowise"]
+	path = sources/repos/flowiseai--flowise
+	url = https://github.com/FlowiseAI/Flowise.git
+
+[submodule "sources/repos/microsoft--semantic-kernel"]
+	path = sources/repos/microsoft--semantic-kernel
+	url = https://github.com/microsoft/semantic-kernel.git
+
+[submodule "sources/repos/run-llama--llama_index"]
+	path = sources/repos/run-llama--llama_index
+	url = https://github.com/run-llama/llama_index.git
+
+[submodule "sources/repos/deepset-ai--haystack"]
+	path = sources/repos/deepset-ai--haystack
+	url = https://github.com/deepset-ai/haystack.git
+
+[submodule "sources/repos/berriai--litellm"]
+	path = sources/repos/berriai--litellm
+	url = https://github.com/BerriAI/litellm.git
+
+[submodule "sources/repos/infiniflow--ragflow"]
+	path = sources/repos/infiniflow--ragflow
+	url = https://github.com/infiniflow/ragflow.git
+
+[submodule "sources/repos/the-vibe-company--quivr"]
+	path = sources/repos/the-vibe-company--quivr
+	url = https://github.com/The-Vibe-Company/quivr.git
+
+[submodule "sources/repos/mem0ai--mem0"]
+	path = sources/repos/mem0ai--mem0
+	url = https://github.com/mem0ai/mem0.git
+
+[submodule "sources/repos/e2b-dev--e2b"]
+	path = sources/repos/e2b-dev--e2b
+	url = https://github.com/e2b-dev/E2B.git
+
+[submodule "sources/repos/browser-use--browser-use"]
+	path = sources/repos/browser-use--browser-use
+	url = https://github.com/browser-use/browser-use.git
+
+[submodule "sources/repos/browserbase--stagehand"]
+	path = sources/repos/browserbase--stagehand
+	url = https://github.com/browserbase/stagehand.git
+
+[submodule "sources/repos/skyvern-ai--skyvern"]
+	path = sources/repos/skyvern-ai--skyvern
+	url = https://github.com/Skyvern-AI/skyvern.git
+
+[submodule "sources/repos/assafelovic--gpt-researcher"]
+	path = sources/repos/assafelovic--gpt-researcher
+	url = https://github.com/assafelovic/gpt-researcher.git
+
+[submodule "sources/repos/significant-gravitas--autogpt"]
+	path = sources/repos/significant-gravitas--autogpt
+	url = https://github.com/Significant-Gravitas/AutoGPT.git
+
+[submodule "sources/repos/transformeroptimus--superagi"]
+	path = sources/repos/transformeroptimus--superagi
+	url = https://github.com/TransformerOptimus/SuperAGI.git
+
+[submodule "sources/repos/xlang-ai--openagents"]
+	path = sources/repos/xlang-ai--openagents
+	url = https://github.com/xlang-ai/OpenAgents.git
+
+[submodule "sources/repos/openbmb--chatdev"]
+	path = sources/repos/openbmb--chatdev
+	url = https://github.com/OpenBMB/ChatDev.git
+
+[submodule "sources/repos/foundationagents--metagpt"]
+	path = sources/repos/foundationagents--metagpt
+	url = https://github.com/FoundationAgents/MetaGPT.git
+
+[submodule "sources/repos/camel-ai--camel"]
+	path = sources/repos/camel-ai--camel
+	url = https://github.com/camel-ai/camel.git
+
+[submodule "sources/repos/microsoft--taskweaver"]
+	path = sources/repos/microsoft--taskweaver
+	url = https://github.com/microsoft/TaskWeaver.git
+
+[submodule "sources/repos/dottxt-ai--outlines"]
+	path = sources/repos/dottxt-ai--outlines
+	url = https://github.com/dottxt-ai/outlines.git
+
+[submodule "sources/repos/guidance-ai--guidance"]
+	path = sources/repos/guidance-ai--guidance
+	url = https://github.com/guidance-ai/guidance.git
+
+[submodule "sources/repos/microsoft--promptflow"]
+	path = sources/repos/microsoft--promptflow
+	url = https://github.com/microsoft/promptflow.git
+
+[submodule "sources/repos/stanfordnlp--dspy"]
+	path = sources/repos/stanfordnlp--dspy
+	url = https://github.com/stanfordnlp/dspy.git
+
+[submodule "sources/repos/openinterpreter--openinterpreter"]
+	path = sources/repos/openinterpreter--openinterpreter
+	url = https://github.com/openinterpreter/openinterpreter.git
+
+[submodule "sources/repos/getzep--graphiti"]
+	path = sources/repos/getzep--graphiti
+	url = https://github.com/getzep/graphiti.git
+
+[submodule "sources/repos/letta-ai--letta"]
+	path = sources/repos/letta-ai--letta
+	url = https://github.com/letta-ai/letta.git
+
+[submodule "sources/repos/modelcontextprotocol--servers"]
+	path = sources/repos/modelcontextprotocol--servers
+	url = https://github.com/modelcontextprotocol/servers.git
+
+[submodule "sources/repos/prefecthq--fastmcp"]
+	path = sources/repos/prefecthq--fastmcp
+	url = https://github.com/PrefectHQ/fastmcp.git
+
+[submodule "sources/repos/punkpeye--fastmcp"]
+	path = sources/repos/punkpeye--fastmcp
+	url = https://github.com/punkpeye/fastmcp.git
+
+[submodule "sources/repos/langchain-ai--langchain"]
+	path = sources/repos/langchain-ai--langchain
+	url = https://github.com/langchain-ai/langchain.git
+
+[submodule "sources/repos/google--langextract"]
+	path = sources/repos/google--langextract
+	url = https://github.com/google/langextract.git
+
+[submodule "sources/repos/simstudioai--sim"]
+	path = sources/repos/simstudioai--sim
+	url = https://github.com/simstudioai/sim.git
+
+[submodule "sources/repos/vectifyai--pageindex"]
+	path = sources/repos/vectifyai--pageindex
+	url = https://github.com/VectifyAI/PageIndex.git
+
+[submodule "sources/repos/zeroclaw-labs--zeroclaw"]
+	path = sources/repos/zeroclaw-labs--zeroclaw
+	url = https://github.com/zeroclaw-labs/zeroclaw.git
+
+[submodule "sources/repos/tinyagi--tinyagi"]
+	path = sources/repos/tinyagi--tinyagi
+	url = https://github.com/TinyAGI/tinyagi.git
+
+[submodule "sources/repos/moltis-org--moltis"]
+	path = sources/repos/moltis-org--moltis
+	url = https://github.com/moltis-org/moltis.git
+
+[submodule "sources/repos/trinityclaw--trinity-claw"]
+	path = sources/repos/trinityclaw--trinity-claw
+	url = https://github.com/TrinityClaw/trinity-claw.git
+
+[submodule "sources/repos/astrbotdevs--astrbot"]
+	path = sources/repos/astrbotdevs--astrbot
+	url = https://github.com/AstrBotDevs/AstrBot.git
+
+[submodule "sources/repos/yogesharc--babyclaw"]
+	path = sources/repos/yogesharc--babyclaw
+	url = https://github.com/yogesharc/babyclaw.git
+
+[submodule "sources/repos/unitedbyai--droidclaw"]
+	path = sources/repos/unitedbyai--droidclaw
+	url = https://github.com/unitedbyai/droidclaw.git
+
+[submodule "sources/repos/masmedeam--shrew"]
+	path = sources/repos/masmedeam--shrew
+	url = https://github.com/Masmedeam/shrew.git
+
+[submodule "sources/repos/kxrbx--clawlet"]
+	path = sources/repos/kxrbx--clawlet
+	url = https://github.com/Kxrbx/Clawlet.git
+
+[submodule "sources/repos/genlayerlabs--subzeroclaw"]
+	path = sources/repos/genlayerlabs--subzeroclaw
+	url = https://github.com/genlayerlabs/subzeroclaw.git
+
+[submodule "sources/repos/crystal-autobot--autobot"]
+	path = sources/repos/crystal-autobot--autobot
+	url = https://github.com/crystal-autobot/autobot.git
+
+[submodule "sources/repos/moxxy-ai--moxxy"]
+	path = sources/repos/moxxy-ai--moxxy
+	url = https://github.com/moxxy-ai/moxxy.git
+
+[submodule "sources/repos/microclaw--microclaw"]
+	path = sources/repos/microclaw--microclaw
+	url = https://github.com/microclaw/microclaw.git
+
+[submodule "sources/repos/tinyfatco--troublemaker"]
+	path = sources/repos/tinyfatco--troublemaker
+	url = https://github.com/tinyfatco/troublemaker.git
+
+[submodule "sources/repos/letta-ai--lettabot"]
+	path = sources/repos/letta-ai--lettabot
+	url = https://github.com/letta-ai/lettabot.git
+
+[submodule "sources/repos/louisho5--picobot"]
+	path = sources/repos/louisho5--picobot
+	url = https://github.com/louisho5/picobot.git
+
+[submodule "sources/repos/abdur-rahmaanj--angel-claw"]
+	path = sources/repos/abdur-rahmaanj--angel-claw
+	url = https://github.com/Abdur-rahmaanJ/angel-claw.git
+
+[submodule "sources/repos/vincenzodomina--supaclaw"]
+	path = sources/repos/vincenzodomina--supaclaw
+	url = https://github.com/vincenzodomina/supaclaw.git
+
+[submodule "sources/repos/czl9707--pickle-bot"]
+	path = sources/repos/czl9707--pickle-bot
+	url = https://github.com/czl9707/pickle-bot.git
+
+[submodule "sources/repos/opencrabs--opencrabs"]
+	path = sources/repos/opencrabs--opencrabs
+	url = https://github.com/opencrabs/opencrabs.git
+
+[submodule "sources/repos/rightnow-ai--openfang"]
+	path = sources/repos/rightnow-ai--openfang
+	url = https://github.com/RightNow-AI/openfang.git
+
+[submodule "sources/repos/karakuriagent--clawdroid"]
+	path = sources/repos/karakuriagent--clawdroid
+	url = https://github.com/KarakuriAgent/clawdroid.git
+
+[submodule "sources/repos/nousresearch--hermes-agent"]
+	path = sources/repos/nousresearch--hermes-agent
+	url = https://github.com/NousResearch/hermes-agent.git
+
+[submodule "sources/repos/daegwang--atombot"]
+	path = sources/repos/daegwang--atombot
+	url = https://github.com/daegwang/atombot.git
+
+[submodule "sources/repos/qwenlm--qwen3"]
+	path = sources/repos/qwenlm--qwen3
+	url = https://github.com/QwenLM/Qwen3.git
+
+[submodule "sources/repos/deepseek-ai--deepseek-r1"]
+	path = sources/repos/deepseek-ai--deepseek-r1
+	url = https://github.com/deepseek-ai/DeepSeek-R1.git
+
+[submodule "sources/repos/google--gemma_pytorch"]
+	path = sources/repos/google--gemma_pytorch
+	url = https://github.com/google/gemma_pytorch.git
+
+[submodule "sources/repos/meta-llama--llama-models"]
+	path = sources/repos/meta-llama--llama-models
+	url = https://github.com/meta-llama/llama-models.git
+
+[submodule "sources/repos/mistralai--mistral-inference"]
+	path = sources/repos/mistralai--mistral-inference
+	url = https://github.com/mistralai/mistral-inference.git
+
+[submodule "sources/repos/openai--gpt-oss"]
+	path = sources/repos/openai--gpt-oss
+	url = https://github.com/openai/gpt-oss.git
+
+[submodule "sources/repos/zai-org--glm-4"]
+	path = sources/repos/zai-org--glm-4
+	url = https://github.com/zai-org/GLM-4.git
+

@@ -3,3 +3,6 @@ node_modules/
 .DS_Store
 
 imported-sources/
+
+__pycache__/
+*.pyc

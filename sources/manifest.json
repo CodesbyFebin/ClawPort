@@ -1,758 +1,884 @@
 [
   {
     "repo": "openclaw/openclaw",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "e1e4a0dffa2bdb930f8fa2ea65e425ba0fd9c354",
     "category": "Claw ecosystem",
     "license": "MIT"
   },
   {
     "repo": "sipeed/picoclaw",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "bbf6893ca7afad27f1d00a0f5a45982a549c6ed6",
     "category": "Claw ecosystem",
     "license": "MIT"
   },
   {
     "repo": "nullclaw/nullclaw",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "5f1cade05c19b6ecdfb9565ae3305e892e484da9",
     "category": "Claw ecosystem",
     "license": "MIT"
   },
   {
     "repo": "openagen/zeroclaw",
-    "branch": "HEAD",
+    "branch": "master",
+    "commit": "7170810e9890b82369aadb38dbf67f418d0a8874",
     "category": "Claw ecosystem",
     "license": "Apache-2.0"
   },
   {
     "repo": "tnm/zclaw",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "e3ad271244c1f2e01f4df6e81c2bab346e95d1b1",
     "category": "Claw ecosystem",
     "license": "MIT"
   },
   {
     "repo": "memovai/mimiclaw",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "dcc1c8c7bcccfc60bc336c76666b67d4bdb50648",
     "category": "Claw ecosystem",
     "license": "MIT"
   },
   {
     "repo": "nearai/ironclaw",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "b0b999d96781516ee05e6ba961d6f3ead900da96",
     "category": "Claw ecosystem",
     "license": "Apache-2.0"
   },
   {
     "repo": "nanocoai/nanoclaw",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "7be8d7f6b9863e7c78c513717c21a6fcf04c3d28",
     "category": "Claw ecosystem",
     "license": "MIT"
   },
   {
     "repo": "princezuda/safestclaw",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "51619b86080e37cdd1556fc409cc618c752b21a1",
     "category": "Claw ecosystem",
     "license": "MIT"
   },
   {
     "repo": "qhkm/zeptoclaw",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "8ff579b5f7c9c0c78b633382111e140b0efbe47f",
     "category": "Claw ecosystem",
     "license": "Apache-2.0"
   },
   {
     "repo": "HKUDS/nanobot",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "b702ac633f149ada9ea123a8bfda5871d7ef6033",
     "category": "Claw ecosystem",
     "license": "MIT"
   },
   {
     "repo": "warengonzaga/tinyclaw",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "5fc5f6715590e9c699bd74df53a31c70f88337bb",
     "category": "Claw ecosystem",
     "license": "GPL-3.0"
   },
   {
     "repo": "brendanhogan/hermitclaw",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "2b69414969e66702f4aad50e0b09594cc26ccd11",
     "category": "Claw ecosystem",
     "license": "Unverified"
   },
   {
     "repo": "anomalyco/opencode",
-    "branch": "HEAD",
+    "branch": "dev",
+    "commit": "802f2d8e75098ae0b45ad839ce98a31589ea8102",
     "category": "Coding agents",
     "license": "MIT"
   },
   {
     "repo": "cline/cline",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "a42df8c8d5fd9d9f9a9073589baffe32ea9bb2f0",
     "category": "Coding agents",
     "license": "Apache-2.0"
   },
   {
     "repo": "RooCodeInc/Roo-Code",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "b867ec9145750d0ae1ff7f02d35406e9bf2a0b16",
     "category": "Coding agents",
     "license": "Apache-2.0"
   },
   {
     "repo": "Aider-AI/aider",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "5dc9490bb35f9729ef2c95d00a19ccd30c26339c",
     "category": "Coding agents",
     "license": "Apache-2.0"
   },
   {
     "repo": "continuedev/continue",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "5522c6f44ca0ac3528b37244818fbfa39b5af470",
     "category": "Coding agents",
     "license": "Apache-2.0"
   },
   {
     "repo": "OpenHands/OpenHands",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "852132d38dbc15e03d6825bbacbeb971c72575be",
     "category": "Coding agents",
     "license": "MIT"
   },
   {
     "repo": "SWE-agent/SWE-agent",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "3ea751c087f32b16e039a2233dd6eefecef325d5",
     "category": "Coding agents",
     "license": "MIT"
   },
   {
     "repo": "SWE-agent/mini-swe-agent",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "04d809ceab9df28f9adaed044884180159172930",
     "category": "Coding agents",
     "license": "MIT"
   },
   {
     "repo": "aaif-goose/goose",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "34a222e3f2b95d8b4a43482b53c2cc957ecce26d",
     "category": "Coding agents",
     "license": "Apache-2.0"
   },
   {
     "repo": "plandex-ai/plandex",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "e2d772072efadbe41d2946d97d79be55532dbab5",
     "category": "Coding agents",
     "license": "MIT"
   },
   {
     "repo": "TabbyML/tabby",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "21b29048d7bcf6b94f9f482f2d0fd05efadfd19f",
     "category": "Coding agents",
     "license": "NOASSERTION"
   },
   {
     "repo": "QwenLM/qwen-code",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "46bf492d05f4520bfd918c62e104d45f433da493",
     "category": "Coding agents",
     "license": "Apache-2.0"
   },
   {
     "repo": "google-gemini/gemini-cli",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "ed96faedfd5571f055c44f2c9509d62321d1138d",
     "category": "Coding agents",
     "license": "Apache-2.0"
   },
   {
     "repo": "openai/codex",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "8c076942cb70fba8e5c4732c23f1faabc4aed484",
     "category": "Coding agents",
     "license": "Apache-2.0"
   },
   {
     "repo": "ollama/ollama",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "36a6e994d2f6c4ab94b3555185154d069e5dba87",
     "category": "Local LLM tools",
     "license": "MIT"
   },
   {
     "repo": "ggml-org/llama.cpp",
-    "branch": "HEAD",
+    "branch": "master",
+    "commit": "5aeac37a35b44fde4bdffaec9159f2fcb253b622",
     "category": "Local LLM tools",
     "license": "MIT"
   },
   {
     "repo": "vllm-project/vllm",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "e80b6c642f21fd5b24439825592f5b9ced36add8",
     "category": "Local LLM tools",
     "license": "Apache-2.0"
   },
   {
     "repo": "sgl-project/sglang",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "bb1d4cddd953597b4e27a8489367ddcbb99e3762",
     "category": "Local LLM tools",
     "license": "Apache-2.0"
   },
   {
     "repo": "mudler/LocalAI",
-    "branch": "HEAD",
+    "branch": "master",
+    "commit": "0d6e57f9f5f2b666396a87d7062c80c9647ec483",
     "category": "Local LLM tools",
     "license": "MIT"
   },
   {
     "repo": "janhq/jan",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "a86d87ebcfb7eb542dbc548cd3a5936b4650c3c6",
     "category": "Local LLM tools",
     "license": "NOASSERTION"
   },
   {
     "repo": "nomic-ai/gpt4all",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "b666d16db5aeab8b91aaf7963adcee9c643734d7",
     "category": "Local LLM tools",
     "license": "MIT"
   },
   {
     "repo": "janhq/cortex.cpp",
-    "branch": "HEAD",
+    "branch": "dev",
+    "commit": "ee9e0ad5b55142959e6fd78ccbb273b993a2ade0",
     "category": "Local LLM tools",
     "license": "Apache-2.0"
   },
   {
     "repo": "mlc-ai/mlc-llm",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "8978ea9aec626d64096aaa92fbc89bda2e3ea802",
     "category": "Local LLM tools",
     "license": "Apache-2.0"
   },
   {
     "repo": "ml-explore/mlx-lm",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "93e6d4a6447b3080861985947f0820e76fcb957d",
     "category": "Local LLM tools",
     "license": "MIT"
   },
   {
     "repo": "open-webui/open-webui",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "91ea4e3421d1d8069f13d4a463fcb5986d94ea60",
     "category": "Local LLM tools",
     "license": "NOASSERTION"
   },
   {
     "repo": "Mintplex-Labs/anything-llm",
-    "branch": "HEAD",
+    "branch": "master",
+    "commit": "d7d68e75c422d10384b8aa30f72d6d032fcc555e",
     "category": "Local LLM tools",
     "license": "MIT"
   },
   {
     "repo": "hiyouga/LlamaFactory",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "1fded918ac4723ac9966363f51ed4500866c5d1d",
     "category": "Local LLM tools",
     "license": "Apache-2.0"
   },
   {
     "repo": "unslothai/unsloth",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "ca3d1d0cef1c2d0a37bf5f904c604009a314c445",
     "category": "Local LLM tools",
     "license": "Apache-2.0"
   },
   {
     "repo": "huggingface/transformers",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "d4804f9d76b8c071b993d813e9e87067b780cbee",
     "category": "Local LLM tools",
     "license": "Apache-2.0"
   },
   {
     "repo": "exo-explore/exo",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "bc412e2230f395e652c23426a5eb88dfa515769b",
     "category": "Local LLM tools",
     "license": "Apache-2.0"
   },
   {
     "repo": "lemonade-sdk/lemonade",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "333469dd036a457dbb3c24054c867cb0d617a9e0",
     "category": "Local LLM tools",
     "license": "Apache-2.0"
   },
   {
     "repo": "Koboldcpp/Koboldcpp",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "326365f45ddb80dc26ca679179c324a8ee0fda19",
     "category": "Local LLM tools",
     "license": "Unverified"
   },
   {
     "repo": "LostRuins/koboldcpp",
-    "branch": "HEAD",
+    "branch": "concedo",
+    "commit": "76e77f34056c51c42435f03faaf9ea1258a7cd68",
     "category": "Local LLM tools",
     "license": "AGPL-3.0"
   },
   {
     "repo": "crewAIInc/crewAI",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "40bb2d3b586e8367d206090cc62df5242206008f",
     "category": "Agent frameworks",
     "license": "MIT"
   },
   {
     "repo": "huggingface/smolagents",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "96f33faaf028479119ec8d34507b47694cf14e34",
     "category": "Agent frameworks",
     "license": "Apache-2.0"
   },
   {
     "repo": "pydantic/pydantic-ai",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "0be309f8a0d92f5868e1779c39f93f4e5f30f1ff",
     "category": "Agent frameworks",
     "license": "MIT"
   },
   {
     "repo": "google/adk-python",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "e2dbc0f55027372f3a701d41004ee006ee8f9f14",
     "category": "Agent frameworks",
     "license": "Apache-2.0"
   },
   {
     "repo": "iOfficeAI/AionUi",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "c140550d04e44f3d6f8a9830b40ae56e4689a977",
     "category": "Agent frameworks",
     "license": "Apache-2.0"
   },
   {
     "repo": "CherryHQ/cherry-studio",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "5abadcc4259bdaaac31810c6ec1cc599751f90d3",
     "category": "Agent frameworks",
     "license": "AGPL-3.0"
   },
   {
     "repo": "langflow-ai/langflow",
-    "branch": "HEAD",
+    "branch": "main",
+    "commit": "972d56c47d3830d17060ee85cfaad152df823041",
     "category": "Agent frameworks",
     "license": "MIT"
   },
   {
     "repo": "n8n-io/n8n",
-    "branch": "HEAD",
+    "branch": "master",
+    "commit": "d2dc2f9ce50294df5c08799af437c56e3e04ab13",
     "category": "Agent frameworks",
     "license": "NOASSERTION"
   },
   {
     "repo": "microsoft/autogen",
     "branch": "main",
+    "commit": "004749e6b7102c8fd317b9b1499ce5807223c278",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "CC-BY-4.0"
   },
   {
     "repo": "microsoft/agent-framework",
     "branch": "main",
+    "commit": "ebcf4db7f9462ef6c377761e0b3159c4c5a73027",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "langchain-ai/langgraph",
     "branch": "main",
+    "commit": "0870f5efcec9d486046ae8abce0735aa7d1f3b79",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "agno-agi/agno",
     "branch": "main",
+    "commit": "0aa592461b5272e6fec8c3eb1383e6b8e71ab9b6",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "openai/openai-agents-python",
     "branch": "main",
+    "commit": "9abc9182d06dbd28330af888306031269d57a175",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "LibreChat-AI/LibreChat",
     "branch": "main",
+    "commit": "e081b566a42d3a83b8102157bd7806cf4ff63b17",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "langgenius/dify",
     "branch": "main",
+    "commit": "b953e69a0eb397e625337812e0319ab770f18783",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "NOASSERTION"
   },
   {
     "repo": "FlowiseAI/Flowise",
     "branch": "main",
+    "commit": "9291856d1ea4a4ceea9f8fef8ce14f4f6c81e8eb",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "NOASSERTION"
   },
   {
     "repo": "microsoft/semantic-kernel",
     "branch": "main",
+    "commit": "7a92cd4e7c2712370b8d85b687a474b2e858cdcc",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "run-llama/llama_index",
     "branch": "main",
+    "commit": "619d74664e8404612038bc15a1a40c686037277c",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "deepset-ai/haystack",
     "branch": "main",
+    "commit": "c6c46c67b7ab19d9aa08290c2524c07cb185d2f1",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "BerriAI/litellm",
     "branch": "main",
+    "commit": "7e6fb09da3987c8b75062307695f9083da55feed",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "NOASSERTION"
   },
   {
     "repo": "infiniflow/ragflow",
     "branch": "main",
+    "commit": "543e16738b4883fcb7e70520e0b5849e7e18c9b7",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "The-Vibe-Company/quivr",
     "branch": "main",
+    "commit": "1f72133e27e1cc0a7a05fb35a93df0f9e33136c4",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "mem0ai/mem0",
     "branch": "main",
+    "commit": "0724291bd864cf807e88ee8981c8226644e8fb42",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "e2b-dev/E2B",
     "branch": "main",
+    "commit": "62a17dfc3f11439d1d06bfb9bb515eadc5adfcd3",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "browser-use/browser-use",
     "branch": "main",
+    "commit": "aa093a843da5edbf323c0b4145c9b6a0db3ecde8",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "browserbase/stagehand",
     "branch": "main",
+    "commit": "10418f98831285b3cddca5328c8013a94f22672a",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "Skyvern-AI/skyvern",
     "branch": "main",
+    "commit": "4e681d04291b21265a7b20c74dc758c42d0e5fb2",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "AGPL-3.0"
   },
   {
     "repo": "assafelovic/gpt-researcher",
     "branch": "main",
+    "commit": "3582a6841fe7dc801e2a34e34ee408641aea9bce",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "Significant-Gravitas/AutoGPT",
     "branch": "master",
+    "commit": "06d623e5e04cc96621130bb4bd118465c9e635d8",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "NOASSERTION"
   },
   {
     "repo": "TransformerOptimus/SuperAGI",
     "branch": "main",
+    "commit": "c3c1982e7bd6a11cfed53c5a193ea502f924b1b6",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "xlang-ai/OpenAgents",
     "branch": "main",
+    "commit": "ff2e46440699af1324eb25655b622c4a131265bb",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "OpenBMB/ChatDev",
     "branch": "main",
+    "commit": "a2ea4a263cebe9a7abd01ee3b5b0bf95698ed328",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "FoundationAgents/MetaGPT",
     "branch": "main",
+    "commit": "11cdf466d042aece04fc6cfd13b28e1a70341b1f",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "camel-ai/camel",
     "branch": "master",
+    "commit": "e5e55256e9446f744bf7309c478b084587dbf985",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "microsoft/TaskWeaver",
     "branch": "main",
+    "commit": "d44ddef23f90059fb17999d3095db4240e98f955",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "dottxt-ai/outlines",
     "branch": "main",
+    "commit": "c52af8472c6fe8a607a733ec11b709476af77a96",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "guidance-ai/guidance",
     "branch": "main",
+    "commit": "21b1d90dfbebff4b141df70c714c8af15aa5f4af",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "microsoft/promptflow",
     "branch": "main",
+    "commit": "3928a727b406e66d64ff42621534bb58e0ca18ce",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "stanfordnlp/dspy",
     "branch": "main",
+    "commit": "1a4f8372eb47e28d975cebf5d09ca6d7f863d32b",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "openinterpreter/openinterpreter",
     "branch": "main",
+    "commit": "ac1fcc8fe57aba51fcc3c79afd57a0883237fe87",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "getzep/graphiti",
     "branch": "main",
+    "commit": "417c3a125ae3ac53c19b8e53fffaccf3e665a88e",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "letta-ai/letta",
     "branch": "main",
+    "commit": "5bcdd177d70fa2b31a754cfcd801e77b2e1ab16a",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "modelcontextprotocol/servers",
     "branch": "main",
+    "commit": "bbb701e7ac1e57f3edd1c2836b94c5457eaf7b9c",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "NOASSERTION"
   },
   {
     "repo": "PrefectHQ/fastmcp",
     "branch": "main",
+    "commit": "7e107c9cfb7a3cf56d74fcfa936e59b4c3b7cf01",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "punkpeye/fastmcp",
     "branch": "main",
+    "commit": "aabcce65519c64836a4c3a66c7d4013bd7b880b2",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "langchain-ai/langchain",
     "branch": "master",
+    "commit": "bd5b134d876ef47858beef27bd29c81eeda03293",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "google/langextract",
     "branch": "main",
+    "commit": "3a68580f0aede0e96a2e1e03daa2a5f4011e4fcd",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "simstudioai/sim",
     "branch": "main",
+    "commit": "c6cef5f87b6a1d1d01df89e7140bad9e9fd4c2e2",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "VectifyAI/PageIndex",
     "branch": "main",
+    "commit": "e7d1cc67e4dd5bfe4cac63b161b313ef41328705",
     "category": "Agent frameworks",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "zeroclaw-labs/zeroclaw",
     "branch": "master",
+    "commit": "c473221313341a853e04122f93bb9bd26b5e6c47",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "TinyAGI/tinyagi",
     "branch": "main",
+    "commit": "2db3a03a891b302c460f624d6c5a0523b8aa3528",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "moltis-org/moltis",
     "branch": "main",
+    "commit": "d6f76f3181c41c0092a07c504190fcab65d4ca43",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "TrinityClaw/trinity-claw",
     "branch": "main",
+    "commit": "a736fdc603f602a2b316aa794c717ff5a6ee8e0a",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "AstrBotDevs/AstrBot",
     "branch": "master",
+    "commit": "e5e21b71aec5642f110eb115eb8e9a0d8028b7e5",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "AGPL-3.0"
   },
   {
     "repo": "yogesharc/babyclaw",
     "branch": "main",
+    "commit": "bcd2bd4866abc75df95570955a7e8517e56b13ab",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "unitedbyai/droidclaw",
     "branch": "main",
+    "commit": "c7c991933e4a0c03cec6044aa7fb9067d391f4d4",
     "category": "Claw ecosystem",
     "license": "Unverified"
   },
   {
     "repo": "Masmedeam/shrew",
     "branch": "main",
+    "commit": "dda94d4eaae9cd5ab7598bc8fd5c10278f230b65",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "Kxrbx/Clawlet",
     "branch": "main",
+    "commit": "09a4d93642c0f0bbc0f175a9ffc1425357135ceb",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "genlayerlabs/subzeroclaw",
     "branch": "main",
+    "commit": "6b6b5adcb4662e0202838b5549d254feca1fc2a3",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "crystal-autobot/autobot",
     "branch": "main",
+    "commit": "1452982ffaf17f3c2cc4ccb4d105f53901a342a1",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "moxxy-ai/moxxy",
     "branch": "development",
+    "commit": "aab78d00320aedcdc4d28372e3543a535efabfb0",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "microclaw/microclaw",
     "branch": "main",
+    "commit": "3cdbe02c5285120e74874f866f04425d1d40117e",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "tinyfatco/troublemaker",
     "branch": "main",
+    "commit": "e3ef9df8f7021e5f8c156609b51b2a9d30f5e674",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "letta-ai/lettabot",
     "branch": "main",
+    "commit": "99c3b5dd73550fe0a4eac2ee31b1c3229ca9e550",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "louisho5/picobot",
     "branch": "main",
+    "commit": "fedd7f2e0c84ea9065a1126ba6f7ba9084584ee8",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "Abdur-rahmaanJ/angel-claw",
     "branch": "stable",
+    "commit": "ae2919d8c2b636aebb90f9bedcbb8c09e3c1fcb9",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "vincenzodomina/supaclaw",
     "branch": "main",
+    "commit": "db4abb083248a9265e58b29dbec4256cf0e3a074",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "czl9707/pickle-bot",
     "branch": "main",
+    "commit": "2a84eea4027243250eb7468fd538bef1a2414eeb",
     "category": "Claw ecosystem",
     "license": "Unverified"
   },
   {
     "repo": "opencrabs/opencrabs",
     "branch": "main",
+    "commit": "02bd841e0ed7506f176427eb31271d238f79278d",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "RightNow-AI/openfang",
     "branch": "main",
+    "commit": "acf2587e46be174c10200489c9a2d23a39a98aeb",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "KarakuriAgent/clawdroid",
     "branch": "main",
+    "commit": "ab6eceadf8bada54a5b3ebc2f78d07f6ffb7b580",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "NOASSERTION"
   },
   {
     "repo": "NousResearch/hermes-agent",
     "branch": "main",
+    "commit": "22063fc099ec9ad8357d7f8f6e6248a0400680d3",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "daegwang/atombot",
     "branch": "main",
+    "commit": "9e30bb67c5abd7c6a3782a03dfec3fd0e1b4a4fe",
     "category": "Claw ecosystem",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "QwenLM/Qwen3",
     "branch": "main",
+    "commit": "7a2f61ffc7a20d47efcd2bf97f6f2bf52729042e",
     "category": "Open-weight model projects",
     "license": "Unverified"
   },
   {
     "repo": "deepseek-ai/DeepSeek-R1",
     "branch": "main",
+    "commit": "0cf78561f1d51c84a21b2190626b21116d5c68bb",
     "category": "Open-weight model projects",
-    "license": "Unverified"
+    "license": "MIT"
   },
   {
     "repo": "google/gemma_pytorch",
     "branch": "main",
+    "commit": "014acb7ac4563a5f77c76d7ff98f31b568c16508",
     "category": "Open-weight model projects",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "meta-llama/llama-models",
     "branch": "main",
+    "commit": "0e0b8c519242d5833d8c11bffc1232b77ad7f301",
     "category": "Open-weight model projects",
-    "license": "Unverified"
+    "license": "NOASSERTION"
   },
   {
     "repo": "mistralai/mistral-inference",
     "branch": "main",
+    "commit": "9eaeb91c17450e09021b6065a1d5cc69876507c8",
     "category": "Open-weight model projects",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "openai/gpt-oss",
     "branch": "main",
+    "commit": "5681a6b6552635e7b29cde94a61ca6a7aee90ebd",
     "category": "Open-weight model projects",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   },
   {
     "repo": "zai-org/GLM-4",
     "branch": "main",
+    "commit": "024d8fd48e62cf53785b68d657f1e018f87b5674",
     "category": "Open-weight model projects",
-    "license": "Unverified"
+    "license": "Apache-2.0"
   }
 ]
