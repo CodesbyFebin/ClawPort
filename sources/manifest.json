@@ -1,0 +1,758 @@
+[
+  {
+    "repo": "openclaw/openclaw",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "MIT"
+  },
+  {
+    "repo": "sipeed/picoclaw",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "MIT"
+  },
+  {
+    "repo": "nullclaw/nullclaw",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "MIT"
+  },
+  {
+    "repo": "openagen/zeroclaw",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "tnm/zclaw",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "MIT"
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "MIT"
+  },
+  {
+    "repo": "nearai/ironclaw",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "nanocoai/nanoclaw",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "MIT"
+  },
+  {
+    "repo": "princezuda/safestclaw",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "MIT"
+  },
+  {
+    "repo": "qhkm/zeptoclaw",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "HKUDS/nanobot",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "MIT"
+  },
+  {
+    "repo": "warengonzaga/tinyclaw",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "GPL-3.0"
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "branch": "HEAD",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "MIT"
+  },
+  {
+    "repo": "cline/cline",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "RooCodeInc/Roo-Code",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "Aider-AI/aider",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "continuedev/continue",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "OpenHands/OpenHands",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "MIT"
+  },
+  {
+    "repo": "SWE-agent/SWE-agent",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "MIT"
+  },
+  {
+    "repo": "SWE-agent/mini-swe-agent",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "MIT"
+  },
+  {
+    "repo": "aaif-goose/goose",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "plandex-ai/plandex",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "MIT"
+  },
+  {
+    "repo": "TabbyML/tabby",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "NOASSERTION"
+  },
+  {
+    "repo": "QwenLM/qwen-code",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "google-gemini/gemini-cli",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "openai/codex",
+    "branch": "HEAD",
+    "category": "Coding agents",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "ollama/ollama",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "MIT"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "MIT"
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "sgl-project/sglang",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "MIT"
+  },
+  {
+    "repo": "janhq/jan",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "NOASSERTION"
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "MIT"
+  },
+  {
+    "repo": "janhq/cortex.cpp",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "mlc-ai/mlc-llm",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "ml-explore/mlx-lm",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "MIT"
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "NOASSERTION"
+  },
+  {
+    "repo": "Mintplex-Labs/anything-llm",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "MIT"
+  },
+  {
+    "repo": "hiyouga/LlamaFactory",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "huggingface/transformers",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "exo-explore/exo",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "lemonade-sdk/lemonade",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "Koboldcpp/Koboldcpp",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "Unverified"
+  },
+  {
+    "repo": "LostRuins/koboldcpp",
+    "branch": "HEAD",
+    "category": "Local LLM tools",
+    "license": "AGPL-3.0"
+  },
+  {
+    "repo": "crewAIInc/crewAI",
+    "branch": "HEAD",
+    "category": "Agent frameworks",
+    "license": "MIT"
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "branch": "HEAD",
+    "category": "Agent frameworks",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "pydantic/pydantic-ai",
+    "branch": "HEAD",
+    "category": "Agent frameworks",
+    "license": "MIT"
+  },
+  {
+    "repo": "google/adk-python",
+    "branch": "HEAD",
+    "category": "Agent frameworks",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "iOfficeAI/AionUi",
+    "branch": "HEAD",
+    "category": "Agent frameworks",
+    "license": "Apache-2.0"
+  },
+  {
+    "repo": "CherryHQ/cherry-studio",
+    "branch": "HEAD",
+    "category": "Agent frameworks",
+    "license": "AGPL-3.0"
+  },
+  {
+    "repo": "langflow-ai/langflow",
+    "branch": "HEAD",
+    "category": "Agent frameworks",
+    "license": "MIT"
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "branch": "HEAD",
+    "category": "Agent frameworks",
+    "license": "NOASSERTION"
+  },
+  {
+    "repo": "microsoft/autogen",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "microsoft/agent-framework",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "langchain-ai/langgraph",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "agno-agi/agno",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "openai/openai-agents-python",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "LibreChat-AI/LibreChat",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "langgenius/dify",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "FlowiseAI/Flowise",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "The-Vibe-Company/quivr",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "mem0ai/mem0",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "e2b-dev/E2B",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "browserbase/stagehand",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "Skyvern-AI/skyvern",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "assafelovic/gpt-researcher",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "branch": "master",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "TransformerOptimus/SuperAGI",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "xlang-ai/OpenAgents",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "OpenBMB/ChatDev",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "FoundationAgents/MetaGPT",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "camel-ai/camel",
+    "branch": "master",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "microsoft/TaskWeaver",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "dottxt-ai/outlines",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "guidance-ai/guidance",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "microsoft/promptflow",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "openinterpreter/openinterpreter",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "getzep/graphiti",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "letta-ai/letta",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "modelcontextprotocol/servers",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "PrefectHQ/fastmcp",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "punkpeye/fastmcp",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "branch": "master",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "google/langextract",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "simstudioai/sim",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "VectifyAI/PageIndex",
+    "branch": "main",
+    "category": "Agent frameworks",
+    "license": "Unverified"
+  },
+  {
+    "repo": "zeroclaw-labs/zeroclaw",
+    "branch": "master",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "TinyAGI/tinyagi",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "moltis-org/moltis",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "TrinityClaw/trinity-claw",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "AstrBotDevs/AstrBot",
+    "branch": "master",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "yogesharc/babyclaw",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "unitedbyai/droidclaw",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "Masmedeam/shrew",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "Kxrbx/Clawlet",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "genlayerlabs/subzeroclaw",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "crystal-autobot/autobot",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "moxxy-ai/moxxy",
+    "branch": "development",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "microclaw/microclaw",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "tinyfatco/troublemaker",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "letta-ai/lettabot",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "louisho5/picobot",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "Abdur-rahmaanJ/angel-claw",
+    "branch": "stable",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "vincenzodomina/supaclaw",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "czl9707/pickle-bot",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "opencrabs/opencrabs",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "RightNow-AI/openfang",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "KarakuriAgent/clawdroid",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "daegwang/atombot",
+    "branch": "main",
+    "category": "Claw ecosystem",
+    "license": "Unverified"
+  },
+  {
+    "repo": "QwenLM/Qwen3",
+    "branch": "main",
+    "category": "Open-weight model projects",
+    "license": "Unverified"
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-R1",
+    "branch": "main",
+    "category": "Open-weight model projects",
+    "license": "Unverified"
+  },
+  {
+    "repo": "google/gemma_pytorch",
+    "branch": "main",
+    "category": "Open-weight model projects",
+    "license": "Unverified"
+  },
+  {
+    "repo": "meta-llama/llama-models",
+    "branch": "main",
+    "category": "Open-weight model projects",
+    "license": "Unverified"
+  },
+  {
+    "repo": "mistralai/mistral-inference",
+    "branch": "main",
+    "category": "Open-weight model projects",
+    "license": "Unverified"
+  },
+  {
+    "repo": "openai/gpt-oss",
+    "branch": "main",
+    "category": "Open-weight model projects",
+    "license": "Unverified"
+  },
+  {
+    "repo": "zai-org/GLM-4",
+    "branch": "main",
+    "category": "Open-weight model projects",
+    "license": "Unverified"
+  }
+]

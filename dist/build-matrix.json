@@ -1,0 +1,3530 @@
+[
+  {
+    "repo": "openclaw/openclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openclaw/openclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openclaw/openclaw",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 3,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openclaw/openclaw",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "sipeed/picoclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "sipeed/picoclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "sipeed/picoclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "sipeed/picoclaw",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 24,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nullclaw/nullclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nullclaw/nullclaw",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nullclaw/nullclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nullclaw/nullclaw",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 5,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openagen/zeroclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openagen/zeroclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openagen/zeroclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openagen/zeroclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "tnm/zclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "tnm/zclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "tnm/zclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "tnm/zclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nearai/ironclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nearai/ironclaw",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nearai/ironclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nearai/ironclaw",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 5,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nanocoai/nanoclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nanocoai/nanoclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nanocoai/nanoclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nanocoai/nanoclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "princezuda/safestclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "princezuda/safestclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "princezuda/safestclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "princezuda/safestclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "qhkm/zeptoclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "qhkm/zeptoclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "qhkm/zeptoclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "qhkm/zeptoclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "HKUDS/nanobot",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "HKUDS/nanobot",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "HKUDS/nanobot",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "HKUDS/nanobot",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "warengonzaga/tinyclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "warengonzaga/tinyclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "warengonzaga/tinyclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "warengonzaga/tinyclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 12,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "cline/cline",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "cline/cline",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "cline/cline",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "cline/cline",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 4,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "RooCodeInc/Roo-Code",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "RooCodeInc/Roo-Code",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "RooCodeInc/Roo-Code",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "RooCodeInc/Roo-Code",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Aider-AI/aider",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Aider-AI/aider",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Aider-AI/aider",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Aider-AI/aider",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "continuedev/continue",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "continuedev/continue",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "continuedev/continue",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "continuedev/continue",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "OpenHands/OpenHands",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "OpenHands/OpenHands",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "OpenHands/OpenHands",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "OpenHands/OpenHands",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "SWE-agent/SWE-agent",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "SWE-agent/SWE-agent",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "SWE-agent/SWE-agent",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "SWE-agent/SWE-agent",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "SWE-agent/mini-swe-agent",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "SWE-agent/mini-swe-agent",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "SWE-agent/mini-swe-agent",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "SWE-agent/mini-swe-agent",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "aaif-goose/goose",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "aaif-goose/goose",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "aaif-goose/goose",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "aaif-goose/goose",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 15,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "plandex-ai/plandex",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "plandex-ai/plandex",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "plandex-ai/plandex",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "plandex-ai/plandex",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TabbyML/tabby",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TabbyML/tabby",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TabbyML/tabby",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TabbyML/tabby",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 3,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "QwenLM/qwen-code",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "QwenLM/qwen-code",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "QwenLM/qwen-code",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "QwenLM/qwen-code",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google-gemini/gemini-cli",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google-gemini/gemini-cli",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google-gemini/gemini-cli",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google-gemini/gemini-cli",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openai/codex",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openai/codex",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 28,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openai/codex",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 4,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openai/codex",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 41,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "ollama/ollama",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "ollama/ollama",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "ollama/ollama",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "ollama/ollama",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "sgl-project/sglang",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "sgl-project/sglang",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "sgl-project/sglang",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "sgl-project/sglang",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "janhq/jan",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "janhq/jan",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "janhq/jan",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "janhq/jan",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "janhq/cortex.cpp",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "janhq/cortex.cpp",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "janhq/cortex.cpp",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "janhq/cortex.cpp",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 3,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mlc-ai/mlc-llm",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mlc-ai/mlc-llm",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mlc-ai/mlc-llm",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mlc-ai/mlc-llm",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "ml-explore/mlx-lm",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "ml-explore/mlx-lm",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "ml-explore/mlx-lm",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "ml-explore/mlx-lm",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Mintplex-Labs/anything-llm",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Mintplex-Labs/anything-llm",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Mintplex-Labs/anything-llm",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Mintplex-Labs/anything-llm",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 3,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "hiyouga/LlamaFactory",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "hiyouga/LlamaFactory",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "hiyouga/LlamaFactory",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "hiyouga/LlamaFactory",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 3,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "huggingface/transformers",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "exo-explore/exo",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "exo-explore/exo",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "exo-explore/exo",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "exo-explore/exo",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "lemonade-sdk/lemonade",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "lemonade-sdk/lemonade",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 2,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "lemonade-sdk/lemonade",
+    "platform": "macOS",
+    "status": "Official packages available",
+    "packages": 1,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "lemonade-sdk/lemonade",
+    "platform": "Linux",
+    "status": "Official packages available",
+    "packages": 6,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Koboldcpp/Koboldcpp",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Koboldcpp/Koboldcpp",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Koboldcpp/Koboldcpp",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Koboldcpp/Koboldcpp",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "LostRuins/koboldcpp",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "LostRuins/koboldcpp",
+    "platform": "Windows",
+    "status": "Official packages available",
+    "packages": 3,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "LostRuins/koboldcpp",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "LostRuins/koboldcpp",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "crewAIInc/crewAI",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "crewAIInc/crewAI",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "crewAIInc/crewAI",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "crewAIInc/crewAI",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "pydantic/pydantic-ai",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "pydantic/pydantic-ai",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "pydantic/pydantic-ai",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "pydantic/pydantic-ai",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google/adk-python",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google/adk-python",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google/adk-python",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google/adk-python",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "iOfficeAI/AionUi",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "iOfficeAI/AionUi",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "iOfficeAI/AionUi",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "iOfficeAI/AionUi",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "CherryHQ/cherry-studio",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "CherryHQ/cherry-studio",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "CherryHQ/cherry-studio",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "CherryHQ/cherry-studio",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langflow-ai/langflow",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langflow-ai/langflow",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langflow-ai/langflow",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langflow-ai/langflow",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/autogen",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/autogen",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/autogen",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/autogen",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/agent-framework",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/agent-framework",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/agent-framework",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/agent-framework",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langchain-ai/langgraph",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langchain-ai/langgraph",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langchain-ai/langgraph",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langchain-ai/langgraph",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "agno-agi/agno",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "agno-agi/agno",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "agno-agi/agno",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "agno-agi/agno",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openai/openai-agents-python",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openai/openai-agents-python",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openai/openai-agents-python",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openai/openai-agents-python",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "LibreChat-AI/LibreChat",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "LibreChat-AI/LibreChat",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "LibreChat-AI/LibreChat",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "LibreChat-AI/LibreChat",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langgenius/dify",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langgenius/dify",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langgenius/dify",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langgenius/dify",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "FlowiseAI/Flowise",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "FlowiseAI/Flowise",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "FlowiseAI/Flowise",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "FlowiseAI/Flowise",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "The-Vibe-Company/quivr",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "The-Vibe-Company/quivr",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "The-Vibe-Company/quivr",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "The-Vibe-Company/quivr",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mem0ai/mem0",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mem0ai/mem0",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mem0ai/mem0",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mem0ai/mem0",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "e2b-dev/E2B",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "e2b-dev/E2B",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "e2b-dev/E2B",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "e2b-dev/E2B",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "browserbase/stagehand",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "browserbase/stagehand",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "browserbase/stagehand",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "browserbase/stagehand",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Skyvern-AI/skyvern",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Skyvern-AI/skyvern",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Skyvern-AI/skyvern",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Skyvern-AI/skyvern",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "assafelovic/gpt-researcher",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "assafelovic/gpt-researcher",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "assafelovic/gpt-researcher",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "assafelovic/gpt-researcher",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TransformerOptimus/SuperAGI",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TransformerOptimus/SuperAGI",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TransformerOptimus/SuperAGI",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TransformerOptimus/SuperAGI",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "xlang-ai/OpenAgents",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "xlang-ai/OpenAgents",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "xlang-ai/OpenAgents",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "xlang-ai/OpenAgents",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "OpenBMB/ChatDev",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "OpenBMB/ChatDev",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "OpenBMB/ChatDev",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "OpenBMB/ChatDev",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "FoundationAgents/MetaGPT",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "FoundationAgents/MetaGPT",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "FoundationAgents/MetaGPT",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "FoundationAgents/MetaGPT",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "camel-ai/camel",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "camel-ai/camel",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "camel-ai/camel",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "camel-ai/camel",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/TaskWeaver",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/TaskWeaver",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/TaskWeaver",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/TaskWeaver",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "dottxt-ai/outlines",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "dottxt-ai/outlines",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "dottxt-ai/outlines",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "dottxt-ai/outlines",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "guidance-ai/guidance",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "guidance-ai/guidance",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "guidance-ai/guidance",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "guidance-ai/guidance",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/promptflow",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/promptflow",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/promptflow",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microsoft/promptflow",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openinterpreter/openinterpreter",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openinterpreter/openinterpreter",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openinterpreter/openinterpreter",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openinterpreter/openinterpreter",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "getzep/graphiti",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "getzep/graphiti",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "getzep/graphiti",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "getzep/graphiti",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "letta-ai/letta",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "letta-ai/letta",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "letta-ai/letta",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "letta-ai/letta",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "modelcontextprotocol/servers",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "modelcontextprotocol/servers",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "modelcontextprotocol/servers",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "modelcontextprotocol/servers",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "PrefectHQ/fastmcp",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "PrefectHQ/fastmcp",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "PrefectHQ/fastmcp",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "PrefectHQ/fastmcp",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "punkpeye/fastmcp",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "punkpeye/fastmcp",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "punkpeye/fastmcp",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "punkpeye/fastmcp",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google/langextract",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google/langextract",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google/langextract",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google/langextract",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "simstudioai/sim",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "simstudioai/sim",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "simstudioai/sim",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "simstudioai/sim",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "VectifyAI/PageIndex",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "VectifyAI/PageIndex",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "VectifyAI/PageIndex",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "VectifyAI/PageIndex",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "zeroclaw-labs/zeroclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "zeroclaw-labs/zeroclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "zeroclaw-labs/zeroclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "zeroclaw-labs/zeroclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TinyAGI/tinyagi",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TinyAGI/tinyagi",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TinyAGI/tinyagi",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TinyAGI/tinyagi",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "moltis-org/moltis",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "moltis-org/moltis",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "moltis-org/moltis",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "moltis-org/moltis",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TrinityClaw/trinity-claw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TrinityClaw/trinity-claw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TrinityClaw/trinity-claw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "TrinityClaw/trinity-claw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "AstrBotDevs/AstrBot",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "AstrBotDevs/AstrBot",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "AstrBotDevs/AstrBot",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "AstrBotDevs/AstrBot",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "yogesharc/babyclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "yogesharc/babyclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "yogesharc/babyclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "yogesharc/babyclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "unitedbyai/droidclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "unitedbyai/droidclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "unitedbyai/droidclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "unitedbyai/droidclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Masmedeam/shrew",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Masmedeam/shrew",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Masmedeam/shrew",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Masmedeam/shrew",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Kxrbx/Clawlet",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Kxrbx/Clawlet",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Kxrbx/Clawlet",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Kxrbx/Clawlet",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "genlayerlabs/subzeroclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "genlayerlabs/subzeroclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "genlayerlabs/subzeroclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "genlayerlabs/subzeroclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "crystal-autobot/autobot",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "crystal-autobot/autobot",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "crystal-autobot/autobot",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "crystal-autobot/autobot",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "moxxy-ai/moxxy",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "moxxy-ai/moxxy",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "moxxy-ai/moxxy",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "moxxy-ai/moxxy",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microclaw/microclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microclaw/microclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microclaw/microclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "microclaw/microclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "tinyfatco/troublemaker",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "tinyfatco/troublemaker",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "tinyfatco/troublemaker",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "tinyfatco/troublemaker",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "letta-ai/lettabot",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "letta-ai/lettabot",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "letta-ai/lettabot",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "letta-ai/lettabot",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "louisho5/picobot",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "louisho5/picobot",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "louisho5/picobot",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "louisho5/picobot",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Abdur-rahmaanJ/angel-claw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Abdur-rahmaanJ/angel-claw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Abdur-rahmaanJ/angel-claw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "Abdur-rahmaanJ/angel-claw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "vincenzodomina/supaclaw",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "vincenzodomina/supaclaw",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "vincenzodomina/supaclaw",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "vincenzodomina/supaclaw",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "czl9707/pickle-bot",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "czl9707/pickle-bot",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "czl9707/pickle-bot",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "czl9707/pickle-bot",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "opencrabs/opencrabs",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "opencrabs/opencrabs",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "opencrabs/opencrabs",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "opencrabs/opencrabs",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "RightNow-AI/openfang",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "RightNow-AI/openfang",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "RightNow-AI/openfang",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "RightNow-AI/openfang",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "KarakuriAgent/clawdroid",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "KarakuriAgent/clawdroid",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "KarakuriAgent/clawdroid",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "KarakuriAgent/clawdroid",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "daegwang/atombot",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "daegwang/atombot",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "daegwang/atombot",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "daegwang/atombot",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "QwenLM/Qwen3",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "QwenLM/Qwen3",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "QwenLM/Qwen3",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "QwenLM/Qwen3",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-R1",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-R1",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-R1",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-R1",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google/gemma_pytorch",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google/gemma_pytorch",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google/gemma_pytorch",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "google/gemma_pytorch",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "meta-llama/llama-models",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "meta-llama/llama-models",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "meta-llama/llama-models",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "meta-llama/llama-models",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mistralai/mistral-inference",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mistralai/mistral-inference",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mistralai/mistral-inference",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "mistralai/mistral-inference",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openai/gpt-oss",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openai/gpt-oss",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openai/gpt-oss",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "openai/gpt-oss",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "zai-org/GLM-4",
+    "platform": "Android",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "zai-org/GLM-4",
+    "platform": "Windows",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "zai-org/GLM-4",
+    "platform": "macOS",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  },
+  {
+    "repo": "zai-org/GLM-4",
+    "platform": "Linux",
+    "status": "Native package not verified",
+    "packages": 0,
+    "built_by_clawport": false
+  }
+]
